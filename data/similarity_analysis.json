@@ -1,0 +1,2274 @@
+{
+  "document_count": 583,
+  "similarity_threshold": 0.18,
+  "top_pairs": [
+    {
+      "source_index": 6,
+      "target_index": 10,
+      "source_project": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+      "target_project": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 6,
+      "target_index": 12,
+      "source_project": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+      "target_project": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 6,
+      "target_index": 13,
+      "source_project": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+      "target_project": "치안데이터활용기술개발(R&D) (4431-730)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 10,
+      "target_index": 12,
+      "source_project": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+      "target_project": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 10,
+      "target_index": 13,
+      "source_project": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+      "target_project": "치안데이터활용기술개발(R&D) (4431-730)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 12,
+      "target_index": 13,
+      "source_project": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+      "target_project": "치안데이터활용기술개발(R&D) (4431-730)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 226,
+      "target_index": 228,
+      "source_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 275,
+      "target_index": 276,
+      "source_project": "(3) 건설전주기 안전혁신기술 개발사업(R&D) (4154-356)",
+      "target_project": "(3) 건설전주기 안전혁신기술 개발사업(R&D) (4154-356)",
+      "source_ministry": "국토교통부",
+      "target_ministry": "국토교통부",
+      "source_domain": "공공행정/전자정부",
+      "target_domain": "공공행정/전자정부",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 478,
+      "target_index": 486,
+      "source_project": "(1) 열공정특화제조AI파운데이션모델개발(R&D) (3174-419)",
+      "target_project": "(1) 제조데이터표준·인공지능활용제품전주기탄소중립지원기술개발(R&D) (3174-366)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 1.0
+    },
+    {
+      "source_index": 6,
+      "target_index": 8,
+      "source_project": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+      "target_project": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9852
+    },
+    {
+      "source_index": 8,
+      "target_index": 10,
+      "source_project": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+      "target_project": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9852
+    },
+    {
+      "source_index": 8,
+      "target_index": 12,
+      "source_project": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+      "target_project": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9852
+    },
+    {
+      "source_index": 8,
+      "target_index": 13,
+      "source_project": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+      "target_project": "치안데이터활용기술개발(R&D) (4431-730)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9852
+    },
+    {
+      "source_index": 443,
+      "target_index": 484,
+      "source_project": "(192) AI자율제조SDM플랫폼기술개발(R&D) (3541-414)",
+      "target_project": "(192) 자율형소프트로봇핵심기술국제공동연구(R&D) (3541-413)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9803
+    },
+    {
+      "source_index": 131,
+      "target_index": 132,
+      "source_project": "(1) 디지털배움터(자율)(1945-302)",
+      "target_project": "(1) 디지털배움터(제주)(1945-302)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "공공행정/전자정부",
+      "target_domain": "공공행정/전자정부",
+      "similarity": 0.9795
+    },
+    {
+      "source_index": 414,
+      "target_index": 426,
+      "source_project": "(244) 구조기반 AI신약개발지원(R&D) (3031-618)",
+      "target_project": "(248) 치매의료기술연구개발사업(R&D) (3031-623)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.9767
+    },
+    {
+      "source_index": 266,
+      "target_index": 268,
+      "source_project": "실·국·과(팀)",
+      "target_project": "실·국·과(팀)",
+      "source_ministry": "관세청",
+      "target_ministry": "관세청",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "기타",
+      "similarity": 0.9733
+    },
+    {
+      "source_index": 6,
+      "target_index": 11,
+      "source_project": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+      "target_project": "사이버수사지원기술개발(R&D) (4431-710)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9632
+    },
+    {
+      "source_index": 10,
+      "target_index": 11,
+      "source_project": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+      "target_project": "사이버수사지원기술개발(R&D) (4431-710)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9632
+    },
+    {
+      "source_index": 11,
+      "target_index": 12,
+      "source_project": "사이버수사지원기술개발(R&D) (4431-710)",
+      "target_project": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9632
+    },
+    {
+      "source_index": 11,
+      "target_index": 13,
+      "source_project": "사이버수사지원기술개발(R&D) (4431-710)",
+      "target_project": "치안데이터활용기술개발(R&D) (4431-730)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9632
+    },
+    {
+      "source_index": 257,
+      "target_index": 261,
+      "source_project": "(79) 국내외 전문군사교육 (2432-304)",
+      "target_project": "(89) 전투발전연구 (2438-304)",
+      "source_ministry": "관세청",
+      "target_ministry": "관세청",
+      "source_domain": "국방/방산",
+      "target_domain": "국방/방산",
+      "similarity": 0.9592
+    },
+    {
+      "source_index": 512,
+      "target_index": 577,
+      "source_project": "전자인사관리시스템운영(정보화) (1946-501)",
+      "target_project": "(6) 전자문서소통시스템(정보화) (1932-501)",
+      "source_ministry": "소방청",
+      "target_ministry": "행정안전부",
+      "source_domain": "공공행정/전자정부",
+      "target_domain": "공공행정/전자정부",
+      "similarity": 0.9549
+    },
+    {
+      "source_index": 447,
+      "target_index": 478,
+      "source_project": "(1) No-Code제조기술혁신생태계구축 (3174-496)",
+      "target_project": "(1) 열공정특화제조AI파운데이션모델개발(R&D) (3174-419)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9539
+    },
+    {
+      "source_index": 447,
+      "target_index": 486,
+      "source_project": "(1) No-Code제조기술혁신생태계구축 (3174-496)",
+      "target_project": "(1) 제조데이터표준·인공지능활용제품전주기탄소중립지원기술개발(R&D) (3174-366)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9539
+    },
+    {
+      "source_index": 8,
+      "target_index": 11,
+      "source_project": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+      "target_project": "사이버수사지원기술개발(R&D) (4431-710)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.949
+    },
+    {
+      "source_index": 363,
+      "target_index": 364,
+      "source_project": "(108) AX기반지능형농작업협업산업화기술개발(R&D) (2280-540)",
+      "target_project": "(103) K-수직농장세계화프로젝트(R&D) (2280-523)",
+      "source_ministry": "기후에너지환경부",
+      "target_ministry": "기후에너지환경부",
+      "source_domain": "농림/식품",
+      "target_domain": "농림/식품",
+      "similarity": 0.944
+    },
+    {
+      "source_index": 363,
+      "target_index": 369,
+      "source_project": "(108) AX기반지능형농작업협업산업화기술개발(R&D) (2280-540)",
+      "target_project": "(113) 반려동물난치성질환극복기술개발(R&D) (2280-546)",
+      "source_ministry": "기후에너지환경부",
+      "target_ministry": "기후에너지환경부",
+      "source_domain": "농림/식품",
+      "target_domain": "의료/바이오",
+      "similarity": 0.9392
+    },
+    {
+      "source_index": 5,
+      "target_index": 7,
+      "source_project": "경찰정보화기반고도화(정보화) (4234-511)",
+      "target_project": "과학수사시스템구축(정보화) (1232-511)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9373
+    },
+    {
+      "source_index": 33,
+      "target_index": 143,
+      "source_project": "(66) AI+S&T 혁신 기술개발(R&D) (1159-445)",
+      "target_project": "(68) 민관협력 기반 AI 휴머노이드 원천기술 고도화(R&D) (1159-447)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "AI인프라/컴퓨팅",
+      "target_domain": "AI인프라/컴퓨팅",
+      "similarity": 0.9355
+    },
+    {
+      "source_index": 443,
+      "target_index": 451,
+      "source_project": "(192) AI자율제조SDM플랫폼기술개발(R&D) (3541-414)",
+      "target_project": "(171) 국가로봇테스트필드(R&D) (3541-351)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9309
+    },
+    {
+      "source_index": 450,
+      "target_index": 457,
+      "source_project": "(1) 가전산업AX전환을위한AI핵심모듈및혁신제품화기술개발(R&D) (3171-483)",
+      "target_project": "(1) 미래이차전지원료소재실증플랫폼기반구축 (3171-471)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.9306
+    },
+    {
+      "source_index": 129,
+      "target_index": 394,
+      "source_project": "(13) 디지털미디어이노베이션기술개발(R&D) (1131-520)",
+      "target_project": "(3) 디지털미디어이노베이션기술개발(R&D) (1131-520)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "대법원",
+      "source_domain": "교육/문화/콘텐츠",
+      "target_domain": "교육/문화/콘텐츠",
+      "similarity": 0.9242
+    },
+    {
+      "source_index": 492,
+      "target_index": 493,
+      "source_project": "(1) 철강·금속AX실증센터구축 (3171-496)",
+      "target_project": "(1) 철강산업AI융합실증허브구축사업 (3171-495)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9219
+    },
+    {
+      "source_index": 4,
+      "target_index": 5,
+      "source_project": "112시스템운영(정보화) (1132-511)",
+      "target_project": "경찰정보화기반고도화(정보화) (4234-511)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9207
+    },
+    {
+      "source_index": 457,
+      "target_index": 492,
+      "source_project": "(1) 미래이차전지원료소재실증플랫폼기반구축 (3171-471)",
+      "target_project": "(1) 철강·금속AX실증센터구축 (3171-496)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.9191
+    },
+    {
+      "source_index": 416,
+      "target_index": 426,
+      "source_project": "(227) 다기관-멀티모달 연합학습 기반 의료인공지능 기술 시범모델 개발(R&D) (3031-575)",
+      "target_project": "(248) 치매의료기술연구개발사업(R&D) (3031-623)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.9166
+    },
+    {
+      "source_index": 413,
+      "target_index": 416,
+      "source_project": "(249) K-AI 신약개발 전임상·임상 모델개발(R&D) (3031-624)",
+      "target_project": "(227) 다기관-멀티모달 연합학습 기반 의료인공지능 기술 시범모델 개발(R&D) (3031-575)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.9151
+    },
+    {
+      "source_index": 277,
+      "target_index": 286,
+      "source_project": "(9) 건설산업정보시스템 구축 및 운영(정보화) (4246-518)",
+      "target_project": "(14) 국토이용정보체계 구축 및 운영(정보화) (4254-526)",
+      "source_ministry": "국토교통부",
+      "target_ministry": "국토교통부",
+      "source_domain": "교통/물류/스마트시티",
+      "target_domain": "교통/물류/스마트시티",
+      "similarity": 0.9129
+    },
+    {
+      "source_index": 451,
+      "target_index": 484,
+      "source_project": "(171) 국가로봇테스트필드(R&D) (3541-351)",
+      "target_project": "(192) 자율형소프트로봇핵심기술국제공동연구(R&D) (3541-413)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9125
+    },
+    {
+      "source_index": 451,
+      "target_index": 455,
+      "source_project": "(171) 국가로봇테스트필드(R&D) (3541-351)",
+      "target_project": "(1) 로봇산업기술개발(R&D) (3541-301)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.9111
+    },
+    {
+      "source_index": 97,
+      "target_index": 180,
+      "source_project": "(104) 공공행정서비스혁신기술개발(R&D) (1531-430)",
+      "target_project": "(106) 재난안전혁신기술개발사업(R&D) (1532-411)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "공공행정/전자정부",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.9108
+    },
+    {
+      "source_index": 277,
+      "target_index": 278,
+      "source_project": "(9) 건설산업정보시스템 구축 및 운영(정보화) (4246-518)",
+      "target_project": "(8) 건축정보시스템 구축 및 운영(정보화) (4244-516)",
+      "source_ministry": "국토교통부",
+      "target_ministry": "국토교통부",
+      "source_domain": "교통/물류/스마트시티",
+      "target_domain": "교통/물류/스마트시티",
+      "similarity": 0.905
+    },
+    {
+      "source_index": 212,
+      "target_index": 226,
+      "source_project": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+      "target_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.9024
+    },
+    {
+      "source_index": 212,
+      "target_index": 228,
+      "source_project": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.9024
+    },
+    {
+      "source_index": 449,
+      "target_index": 480,
+      "source_project": "(171) SDV용AI가속기반도체기술개발(R&D) (3551-355)",
+      "target_project": "(1) 자동차산업기술개발(R&D) (3551-301)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8992
+    },
+    {
+      "source_index": 4,
+      "target_index": 7,
+      "source_project": "112시스템운영(정보화) (1132-511)",
+      "target_project": "과학수사시스템구축(정보화) (1232-511)",
+      "source_ministry": "감사원",
+      "target_ministry": "감사원",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.8956
+    },
+    {
+      "source_index": 213,
+      "target_index": 223,
+      "source_project": "(226) 한국과학기술연구원 연구운영비 지원(R&D) (2241-404)",
+      "target_project": "(4) 한국에너지기술연구원 연구운영비 지원(R&D) (2241-404)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8948
+    },
+    {
+      "source_index": 478,
+      "target_index": 495,
+      "source_project": "(1) 열공정특화제조AI파운데이션모델개발(R&D) (3174-419)",
+      "target_project": "(1) 한국형Manufacturing-X플랫폼표준모델개발및실증(R&D) (3174-420)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8947
+    },
+    {
+      "source_index": 486,
+      "target_index": 495,
+      "source_project": "(1) 제조데이터표준·인공지능활용제품전주기탄소중립지원기술개발(R&D) (3174-366)",
+      "target_project": "(1) 한국형Manufacturing-X플랫폼표준모델개발및실증(R&D) (3174-420)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8947
+    },
+    {
+      "source_index": 414,
+      "target_index": 416,
+      "source_project": "(244) 구조기반 AI신약개발지원(R&D) (3031-618)",
+      "target_project": "(227) 다기관-멀티모달 연합학습 기반 의료인공지능 기술 시범모델 개발(R&D) (3031-575)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8945
+    },
+    {
+      "source_index": 212,
+      "target_index": 231,
+      "source_project": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+      "target_project": "(238) 한국화학연구원 연구운영비 지원(R&D) (2241-427)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.892
+    },
+    {
+      "source_index": 449,
+      "target_index": 488,
+      "source_project": "(171) SDV용AI가속기반도체기술개발(R&D) (3551-355)",
+      "target_project": "(1) 조선해양산업기술개발(R&D) (3551-302)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8903
+    },
+    {
+      "source_index": 364,
+      "target_index": 369,
+      "source_project": "(103) K-수직농장세계화프로젝트(R&D) (2280-523)",
+      "target_project": "(113) 반려동물난치성질환극복기술개발(R&D) (2280-546)",
+      "source_ministry": "기후에너지환경부",
+      "target_ministry": "기후에너지환경부",
+      "source_domain": "농림/식품",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8866
+    },
+    {
+      "source_index": 517,
+      "target_index": 529,
+      "source_project": "(2) 신성장기반자금(융자) (1261-301)",
+      "target_project": "(10) 혁신창업사업화자금(융자) (5152-301)",
+      "source_ministry": "소방청",
+      "target_ministry": "소방청",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8863
+    },
+    {
+      "source_index": 141,
+      "target_index": 179,
+      "source_project": "(160) 디지털혁신기술국제공동연구(R&D)(2132-353)",
+      "target_project": "(167) 자율행동체 온디바이스 응용 지원 핵심기술개발(R&D)(2132-399)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "교육/문화/콘텐츠",
+      "target_domain": "교육/문화/콘텐츠",
+      "similarity": 0.8846
+    },
+    {
+      "source_index": 470,
+      "target_index": 481,
+      "source_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "target_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "안전/치안/재난",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8845
+    },
+    {
+      "source_index": 55,
+      "target_index": 202,
+      "source_project": "(30) AI-네이티브 첨단바이오 자율실험실(R&D) (1138-486)",
+      "target_project": "(34) 첨단신약 타겟 발굴 검증 및 기반기술 개발(R&D) (1138-499)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8818
+    },
+    {
+      "source_index": 444,
+      "target_index": 455,
+      "source_project": "(1) AX실증밸리조성(R&D) (3541-301)",
+      "target_project": "(1) 로봇산업기술개발(R&D) (3541-301)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8788
+    },
+    {
+      "source_index": 468,
+      "target_index": 481,
+      "source_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "target_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "기타",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8782
+    },
+    {
+      "source_index": 465,
+      "target_index": 493,
+      "source_project": "(1) 산업AI솔루션실증‧확산지원 (3171-390)",
+      "target_project": "(1) 철강산업AI융합실증허브구축사업 (3171-495)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8749
+    },
+    {
+      "source_index": 98,
+      "target_index": 209,
+      "source_project": "(1) 공존가능한 신뢰 AI를 위한 AI Safety 기술개발 (2601-390)",
+      "target_project": "(312) 컴퓨팅자원 집중형 인공지능 응용 기술개발(R&D) (2601-398)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "데이터/플랫폼",
+      "target_domain": "데이터/플랫폼",
+      "similarity": 0.8726
+    },
+    {
+      "source_index": 518,
+      "target_index": 525,
+      "source_project": "(13) 재도약촉진 (5161-302)",
+      "target_project": "(11) 창업성공패키지 (5152-302)",
+      "source_ministry": "소방청",
+      "target_ministry": "소방청",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8714
+    },
+    {
+      "source_index": 138,
+      "target_index": 193,
+      "source_project": "정보통신정책실",
+      "target_project": "정보통신정책실",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "교육/문화/콘텐츠",
+      "target_domain": "교육/문화/콘텐츠",
+      "similarity": 0.8712
+    },
+    {
+      "source_index": 212,
+      "target_index": 213,
+      "source_project": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+      "target_project": "(226) 한국과학기술연구원 연구운영비 지원(R&D) (2241-404)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8711
+    },
+    {
+      "source_index": 212,
+      "target_index": 217,
+      "source_project": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+      "target_project": "(227) 한국기초과학지원연구원 연구운영비 지원 (2241-405)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8711
+    },
+    {
+      "source_index": 260,
+      "target_index": 403,
+      "source_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "target_project": "법률구조기구",
+      "source_ministry": "관세청",
+      "target_ministry": "대법원",
+      "source_domain": "국방/방산",
+      "target_domain": "기타",
+      "similarity": 0.8699
+    },
+    {
+      "source_index": 120,
+      "target_index": 122,
+      "source_project": "(44) 데이터경제인프라구축 (2604-301)",
+      "target_project": "(31) 데이터기반산업경쟁력강화 (2604-301)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "데이터/플랫폼",
+      "target_domain": "데이터/플랫폼",
+      "similarity": 0.8681
+    },
+    {
+      "source_index": 416,
+      "target_index": 420,
+      "source_project": "(227) 다기관-멀티모달 연합학습 기반 의료인공지능 기술 시범모델 개발(R&D) (3031-575)",
+      "target_project": "(228) 보건의료데이터 상호운용성 지원 기술개발(R&D) (3031-578)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8671
+    },
+    {
+      "source_index": 226,
+      "target_index": 229,
+      "source_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "target_project": "(231) 한국표준과학연구원 연구운영비 지원(R&D) (2241-412)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8668
+    },
+    {
+      "source_index": 228,
+      "target_index": 229,
+      "source_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "target_project": "(231) 한국표준과학연구원 연구운영비 지원(R&D) (2241-412)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8668
+    },
+    {
+      "source_index": 278,
+      "target_index": 286,
+      "source_project": "(8) 건축정보시스템 구축 및 운영(정보화) (4244-516)",
+      "target_project": "(14) 국토이용정보체계 구축 및 운영(정보화) (4254-526)",
+      "source_ministry": "국토교통부",
+      "target_ministry": "국토교통부",
+      "source_domain": "교통/물류/스마트시티",
+      "target_domain": "교통/물류/스마트시티",
+      "similarity": 0.8661
+    },
+    {
+      "source_index": 472,
+      "target_index": 492,
+      "source_project": "(1) 산업혁신기반구축(R&D) (3171-302)",
+      "target_project": "(1) 철강·금속AX실증센터구축 (3171-496)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8615
+    },
+    {
+      "source_index": 447,
+      "target_index": 495,
+      "source_project": "(1) No-Code제조기술혁신생태계구축 (3174-496)",
+      "target_project": "(1) 한국형Manufacturing-X플랫폼표준모델개발및실증(R&D) (3174-420)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8561
+    },
+    {
+      "source_index": 216,
+      "target_index": 226,
+      "source_project": "(237) 한국기계연구원 연구운영비 지원(R&D)(2241-426)",
+      "target_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8526
+    },
+    {
+      "source_index": 216,
+      "target_index": 228,
+      "source_project": "(237) 한국기계연구원 연구운영비 지원(R&D)(2241-426)",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8526
+    },
+    {
+      "source_index": 462,
+      "target_index": 476,
+      "source_project": "(238) 범부처감염병방역체계고도화R&D사업(R&D) (3651-433)",
+      "target_project": "(238) 세포및유전자치료제 제조공정 고도화 기술개발사업 (3651-453)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "의료/바이오",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8526
+    },
+    {
+      "source_index": 413,
+      "target_index": 426,
+      "source_project": "(249) K-AI 신약개발 전임상·임상 모델개발(R&D) (3031-624)",
+      "target_project": "(248) 치매의료기술연구개발사업(R&D) (3031-623)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8484
+    },
+    {
+      "source_index": 220,
+      "target_index": 226,
+      "source_project": "(228) 한국생명공학연구원 연구운영비지원(R&D) (2241-408)",
+      "target_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8483
+    },
+    {
+      "source_index": 220,
+      "target_index": 228,
+      "source_project": "(228) 한국생명공학연구원 연구운영비지원(R&D) (2241-408)",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8483
+    },
+    {
+      "source_index": 443,
+      "target_index": 455,
+      "source_project": "(192) AI자율제조SDM플랫폼기술개발(R&D) (3541-414)",
+      "target_project": "(1) 로봇산업기술개발(R&D) (3541-301)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8481
+    },
+    {
+      "source_index": 474,
+      "target_index": 478,
+      "source_project": "(1) 산업현장문제해결형산업AI에이전트기술개발(R&D) (3174-416)",
+      "target_project": "(1) 열공정특화제조AI파운데이션모델개발(R&D) (3174-419)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8481
+    },
+    {
+      "source_index": 474,
+      "target_index": 486,
+      "source_project": "(1) 산업현장문제해결형산업AI에이전트기술개발(R&D) (3174-416)",
+      "target_project": "(1) 제조데이터표준·인공지능활용제품전주기탄소중립지원기술개발(R&D) (3174-366)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8481
+    },
+    {
+      "source_index": 468,
+      "target_index": 470,
+      "source_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "target_project": "실·국·과(팀) 과 장 사무관 주무관",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "기타",
+      "target_domain": "안전/치안/재난",
+      "similarity": 0.8471
+    },
+    {
+      "source_index": 55,
+      "target_index": 207,
+      "source_project": "(30) AI-네이티브 첨단바이오 자율실험실(R&D) (1138-486)",
+      "target_project": "(35) 치매의료기술연구개발사업(R&D) (1138-500)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8466
+    },
+    {
+      "source_index": 106,
+      "target_index": 226,
+      "source_project": "(224) 국가과학기술연구회 연구운영비 지원 (2241-401)",
+      "target_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8461
+    },
+    {
+      "source_index": 106,
+      "target_index": 228,
+      "source_project": "(224) 국가과학기술연구회 연구운영비 지원 (2241-401)",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8461
+    },
+    {
+      "source_index": 441,
+      "target_index": 476,
+      "source_project": "(238) AI기반표적맞춤형의약품제조자율랩기술개발사업 (3651-321)",
+      "target_project": "(238) 세포및유전자치료제 제조공정 고도화 기술개발사업 (3651-453)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "제조/스마트팩토리",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8458
+    },
+    {
+      "source_index": 222,
+      "target_index": 226,
+      "source_project": "(236) 한국식품연구원 연구운영비 지원(R&D) (2241-425）",
+      "target_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "농림/식품",
+      "target_domain": "기타",
+      "similarity": 0.8456
+    },
+    {
+      "source_index": 222,
+      "target_index": 228,
+      "source_project": "(236) 한국식품연구원 연구운영비 지원(R&D) (2241-425）",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "농림/식품",
+      "target_domain": "기타",
+      "similarity": 0.8456
+    },
+    {
+      "source_index": 450,
+      "target_index": 492,
+      "source_project": "(1) 가전산업AX전환을위한AI핵심모듈및혁신제품화기술개발(R&D) (3171-483)",
+      "target_project": "(1) 철강·금속AX실증센터구축 (3171-496)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "에너지/환경/기후",
+      "similarity": 0.8452
+    },
+    {
+      "source_index": 225,
+      "target_index": 226,
+      "source_project": "(11) 한국재료연구원 연구운영비 지원 (2241-302)",
+      "target_project": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8441
+    },
+    {
+      "source_index": 225,
+      "target_index": 228,
+      "source_project": "(11) 한국재료연구원 연구운영비 지원 (2241-302)",
+      "target_project": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8441
+    },
+    {
+      "source_index": 457,
+      "target_index": 493,
+      "source_project": "(1) 미래이차전지원료소재실증플랫폼기반구축 (3171-471)",
+      "target_project": "(1) 철강산업AI융합실증허브구축사업 (3171-495)",
+      "source_ministry": "산업통상부",
+      "target_ministry": "산업통상부",
+      "source_domain": "에너지/환경/기후",
+      "target_domain": "제조/스마트팩토리",
+      "similarity": 0.8441
+    },
+    {
+      "source_index": 422,
+      "target_index": 423,
+      "source_project": "(219) 응급실 특화 AI기반 임상지원시스템 개발(R&D) (3031-545)",
+      "target_project": "(236) 의료 인공지능 특화 융합인재 양성 사업(R&D) (3031-592)",
+      "source_ministry": "대법원",
+      "target_ministry": "대법원",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8423
+    },
+    {
+      "source_index": 503,
+      "target_index": 504,
+      "source_project": "(66) 중독자 데이터 기반 마약 중독 재활기술 개발연구(R&D) (4031-348)",
+      "target_project": "(56) 컴퓨터모델링 기반 의료기기 평가체계 구축(R&D) (4031-320)",
+      "source_ministry": "소방청",
+      "target_ministry": "소방청",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.842
+    },
+    {
+      "source_index": 39,
+      "target_index": 168,
+      "source_project": "정보통신정책실",
+      "target_project": "정보통신정책실",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "AI인프라/컴퓨팅",
+      "target_domain": "AI인프라/컴퓨팅",
+      "similarity": 0.8413
+    },
+    {
+      "source_index": 216,
+      "target_index": 221,
+      "source_project": "(237) 한국기계연구원 연구운영비 지원(R&D)(2241-426)",
+      "target_project": "(233) 한국생산기술연구원 연구운영비 지원(R&D) (2241-422)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "기타",
+      "target_domain": "기타",
+      "similarity": 0.8409
+    },
+    {
+      "source_index": 172,
+      "target_index": 200,
+      "source_project": "(310) 인간인지기반AI핵심원천기술개발 (2601-395)",
+      "target_project": "(302) 차세대생성AI기술개발 (2601-378)",
+      "source_ministry": "과학기술정보통신부",
+      "target_ministry": "과학기술정보통신부",
+      "source_domain": "데이터/플랫폼",
+      "target_domain": "데이터/플랫폼",
+      "similarity": 0.84
+    },
+    {
+      "source_index": 534,
+      "target_index": 535,
+      "source_project": "(1) 국가통합바이오빅데이터구축사업II(R&D) (6634-352)",
+      "target_project": "(1) 헬스케어 이종데이터 활용체계 및 인공지능 개발(R&D) (6634-331)",
+      "source_ministry": "소방청",
+      "target_ministry": "소방청",
+      "source_domain": "의료/바이오",
+      "target_domain": "의료/바이오",
+      "similarity": 0.8399
+    }
+  ],
+  "network_nodes": [
+    {
+      "id": 4,
+      "label": "112시스템운영(정보화) (1132-511)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 23
+    },
+    {
+      "id": 5,
+      "label": "경찰정보화기반고도화(정보화) (4234-511)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4200
+    },
+    {
+      "id": 6,
+      "label": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4400
+    },
+    {
+      "id": 7,
+      "label": "과학수사시스템구축(정보화) (1232-511)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 1200
+    },
+    {
+      "id": 8,
+      "label": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4400
+    },
+    {
+      "id": 10,
+      "label": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4400
+    },
+    {
+      "id": 11,
+      "label": "사이버수사지원기술개발(R&D) (4431-710)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4400
+    },
+    {
+      "id": 12,
+      "label": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4400
+    },
+    {
+      "id": 13,
+      "label": "치안데이터활용기술개발(R&D) (4431-730)",
+      "ministry": "감사원",
+      "domain": "안전/치안/재난",
+      "budget_2026": 4400
+    },
+    {
+      "id": 33,
+      "label": "(66) AI+S&T 혁신 기술개발(R&D) (1159-445)",
+      "ministry": "과학기술정보통신부",
+      "domain": "AI인프라/컴퓨팅",
+      "budget_2026": 155
+    },
+    {
+      "id": 55,
+      "label": "(30) AI-네이티브 첨단바이오 자율실험실(R&D) (1138-486)",
+      "ministry": "과학기술정보통신부",
+      "domain": "의료/바이오",
+      "budget_2026": 155
+    },
+    {
+      "id": 97,
+      "label": "(104) 공공행정서비스혁신기술개발(R&D) (1531-430)",
+      "ministry": "과학기술정보통신부",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 155
+    },
+    {
+      "id": 129,
+      "label": "(13) 디지털미디어이노베이션기술개발(R&D) (1131-520)",
+      "ministry": "과학기술정보통신부",
+      "domain": "교육/문화/콘텐츠",
+      "budget_2026": 61
+    },
+    {
+      "id": 131,
+      "label": "(1) 디지털배움터(자율)(1945-302)",
+      "ministry": "과학기술정보통신부",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 1900
+    },
+    {
+      "id": 132,
+      "label": "(1) 디지털배움터(제주)(1945-302)",
+      "ministry": "과학기술정보통신부",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 1900
+    },
+    {
+      "id": 141,
+      "label": "(160) 디지털혁신기술국제공동연구(R&D)(2132-353)",
+      "ministry": "과학기술정보통신부",
+      "domain": "교육/문화/콘텐츠",
+      "budget_2026": 133
+    },
+    {
+      "id": 143,
+      "label": "(68) 민관협력 기반 AI 휴머노이드 원천기술 고도화(R&D) (115",
+      "ministry": "과학기술정보통신부",
+      "domain": "AI인프라/컴퓨팅",
+      "budget_2026": 155
+    },
+    {
+      "id": 179,
+      "label": "(167) 자율행동체 온디바이스 응용 지원 핵심기술개발(R&D)(2132",
+      "ministry": "과학기술정보통신부",
+      "domain": "교육/문화/콘텐츠",
+      "budget_2026": 133
+    },
+    {
+      "id": 180,
+      "label": "(106) 재난안전혁신기술개발사업(R&D) (1532-411)",
+      "ministry": "과학기술정보통신부",
+      "domain": "안전/치안/재난",
+      "budget_2026": 155
+    },
+    {
+      "id": 202,
+      "label": "(34) 첨단신약 타겟 발굴 검증 및 기반기술 개발(R&D) (1138-",
+      "ministry": "과학기술정보통신부",
+      "domain": "의료/바이오",
+      "budget_2026": 155
+    },
+    {
+      "id": 212,
+      "label": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+      "ministry": "과학기술정보통신부",
+      "domain": "기타",
+      "budget_2026": 2200
+    },
+    {
+      "id": 213,
+      "label": "(226) 한국과학기술연구원 연구운영비 지원(R&D) (2241-404)",
+      "ministry": "과학기술정보통신부",
+      "domain": "기타",
+      "budget_2026": 152
+    },
+    {
+      "id": 223,
+      "label": "(4) 한국에너지기술연구원 연구운영비 지원(R&D) (2241-404)",
+      "ministry": "과학기술정보통신부",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 2200
+    },
+    {
+      "id": 226,
+      "label": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423)",
+      "ministry": "과학기술정보통신부",
+      "domain": "기타",
+      "budget_2026": 152
+    },
+    {
+      "id": 228,
+      "label": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430)",
+      "ministry": "과학기술정보통신부",
+      "domain": "기타",
+      "budget_2026": 152
+    },
+    {
+      "id": 231,
+      "label": "(238) 한국화학연구원 연구운영비 지원(R&D) (2241-427)",
+      "ministry": "과학기술정보통신부",
+      "domain": "기타",
+      "budget_2026": 152
+    },
+    {
+      "id": 257,
+      "label": "(79) 국내외 전문군사교육 (2432-304)",
+      "ministry": "관세청",
+      "domain": "국방/방산",
+      "budget_2026": 42
+    },
+    {
+      "id": 261,
+      "label": "(89) 전투발전연구 (2438-304)",
+      "ministry": "관세청",
+      "domain": "국방/방산",
+      "budget_2026": 42
+    },
+    {
+      "id": 266,
+      "label": "실·국·과(팀)",
+      "ministry": "관세청",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 0
+    },
+    {
+      "id": 268,
+      "label": "실·국·과(팀)",
+      "ministry": "관세청",
+      "domain": "기타",
+      "budget_2026": 0
+    },
+    {
+      "id": 275,
+      "label": "(3) 건설전주기 안전혁신기술 개발사업(R&D) (4154-356)",
+      "ministry": "국토교통부",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 4100
+    },
+    {
+      "id": 276,
+      "label": "(3) 건설전주기 안전혁신기술 개발사업(R&D) (4154-356)",
+      "ministry": "국토교통부",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 4100
+    },
+    {
+      "id": 277,
+      "label": "(9) 건설산업정보시스템 구축 및 운영(정보화) (4246-518)",
+      "ministry": "국토교통부",
+      "domain": "교통/물류/스마트시티",
+      "budget_2026": 4200
+    },
+    {
+      "id": 278,
+      "label": "(8) 건축정보시스템 구축 및 운영(정보화) (4244-516)",
+      "ministry": "국토교통부",
+      "domain": "교통/물류/스마트시티",
+      "budget_2026": 120
+    },
+    {
+      "id": 286,
+      "label": "(14) 국토이용정보체계 구축 및 운영(정보화) (4254-526)",
+      "ministry": "국토교통부",
+      "domain": "교통/물류/스마트시티",
+      "budget_2026": 126
+    },
+    {
+      "id": 363,
+      "label": "(108) AX기반지능형농작업협업산업화기술개발(R&D) (2280-540",
+      "ministry": "기후에너지환경부",
+      "domain": "농림/식품",
+      "budget_2026": 101
+    },
+    {
+      "id": 364,
+      "label": "(103) K-수직농장세계화프로젝트(R&D) (2280-523)",
+      "ministry": "기후에너지환경부",
+      "domain": "농림/식품",
+      "budget_2026": 101
+    },
+    {
+      "id": 369,
+      "label": "(113) 반려동물난치성질환극복기술개발(R&D) (2280-546)",
+      "ministry": "기후에너지환경부",
+      "domain": "의료/바이오",
+      "budget_2026": 101
+    },
+    {
+      "id": 394,
+      "label": "(3) 디지털미디어이노베이션기술개발(R&D) (1131-520)",
+      "ministry": "대법원",
+      "domain": "교육/문화/콘텐츠",
+      "budget_2026": 1100
+    },
+    {
+      "id": 413,
+      "label": "(249) K-AI 신약개발 전임상·임상 모델개발(R&D) (3031-6",
+      "ministry": "대법원",
+      "domain": "의료/바이오",
+      "budget_2026": 23
+    },
+    {
+      "id": 414,
+      "label": "(244) 구조기반 AI신약개발지원(R&D) (3031-618)",
+      "ministry": "대법원",
+      "domain": "의료/바이오",
+      "budget_2026": 23
+    },
+    {
+      "id": 416,
+      "label": "(227) 다기관-멀티모달 연합학습 기반 의료인공지능 기술 시범모델 개발",
+      "ministry": "대법원",
+      "domain": "의료/바이오",
+      "budget_2026": 23
+    },
+    {
+      "id": 426,
+      "label": "(248) 치매의료기술연구개발사업(R&D) (3031-623)",
+      "ministry": "대법원",
+      "domain": "의료/바이오",
+      "budget_2026": 23
+    },
+    {
+      "id": 443,
+      "label": "(192) AI자율제조SDM플랫폼기술개발(R&D) (3541-414)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 117
+    },
+    {
+      "id": 444,
+      "label": "(1) AX실증밸리조성(R&D) (3541-301)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 110
+    },
+    {
+      "id": 447,
+      "label": "(1) No-Code제조기술혁신생태계구축 (3174-496)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3100
+    },
+    {
+      "id": 449,
+      "label": "(171) SDV용AI가속기반도체기술개발(R&D) (3551-355)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 117
+    },
+    {
+      "id": 450,
+      "label": "(1) 가전산업AX전환을위한AI핵심모듈및혁신제품화기술개발(R&D) (31",
+      "ministry": "산업통상부",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 3100
+    },
+    {
+      "id": 451,
+      "label": "(171) 국가로봇테스트필드(R&D) (3541-351)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 117
+    },
+    {
+      "id": 455,
+      "label": "(1) 로봇산업기술개발(R&D) (3541-301)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3500
+    },
+    {
+      "id": 457,
+      "label": "(1) 미래이차전지원료소재실증플랫폼기반구축 (3171-471)",
+      "ministry": "산업통상부",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 3100
+    },
+    {
+      "id": 468,
+      "label": "실·국·과(팀) 과 장 사무관 주무관",
+      "ministry": "산업통상부",
+      "domain": "기타",
+      "budget_2026": 0
+    },
+    {
+      "id": 470,
+      "label": "실·국·과(팀) 과 장 사무관 주무관",
+      "ministry": "산업통상부",
+      "domain": "안전/치안/재난",
+      "budget_2026": 0
+    },
+    {
+      "id": 478,
+      "label": "(1) 열공정특화제조AI파운데이션모델개발(R&D) (3174-419)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3100
+    },
+    {
+      "id": 480,
+      "label": "(1) 자동차산업기술개발(R&D) (3551-301)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3500
+    },
+    {
+      "id": 481,
+      "label": "실·국·과(팀) 과 장 사무관 주무관",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 0
+    },
+    {
+      "id": 484,
+      "label": "(192) 자율형소프트로봇핵심기술국제공동연구(R&D) (3541-413)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 117
+    },
+    {
+      "id": 486,
+      "label": "(1) 제조데이터표준·인공지능활용제품전주기탄소중립지원기술개발(R&D) (",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3100
+    },
+    {
+      "id": 488,
+      "label": "(1) 조선해양산업기술개발(R&D) (3551-302)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3500
+    },
+    {
+      "id": 492,
+      "label": "(1) 철강·금속AX실증센터구축 (3171-496)",
+      "ministry": "산업통상부",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 3100
+    },
+    {
+      "id": 493,
+      "label": "(1) 철강산업AI융합실증허브구축사업 (3171-495)",
+      "ministry": "산업통상부",
+      "domain": "제조/스마트팩토리",
+      "budget_2026": 3100
+    },
+    {
+      "id": 495,
+      "label": "(1) 한국형Manufacturing-X플랫폼표준모델개발및실증(R&D) ",
+      "ministry": "산업통상부",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 3100
+    },
+    {
+      "id": 512,
+      "label": "전자인사관리시스템운영(정보화) (1946-501)",
+      "ministry": "소방청",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 1900
+    },
+    {
+      "id": 517,
+      "label": "(2) 신성장기반자금(융자) (1261-301)",
+      "ministry": "소방청",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 1200
+    },
+    {
+      "id": 529,
+      "label": "(10) 혁신창업사업화자금(융자) (5152-301)",
+      "ministry": "소방청",
+      "domain": "에너지/환경/기후",
+      "budget_2026": 119
+    },
+    {
+      "id": 577,
+      "label": "(6) 전자문서소통시스템(정보화) (1932-501)",
+      "ministry": "행정안전부",
+      "domain": "공공행정/전자정부",
+      "budget_2026": 1900
+    }
+  ],
+  "network_edges": [
+    {
+      "source": 6,
+      "target": 10,
+      "weight": 1.0
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "weight": 1.0
+    },
+    {
+      "source": 6,
+      "target": 13,
+      "weight": 1.0
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "weight": 1.0
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "weight": 1.0
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "weight": 1.0
+    },
+    {
+      "source": 226,
+      "target": 228,
+      "weight": 1.0
+    },
+    {
+      "source": 275,
+      "target": 276,
+      "weight": 1.0
+    },
+    {
+      "source": 478,
+      "target": 486,
+      "weight": 1.0
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "weight": 0.9852
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "weight": 0.9852
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "weight": 0.9852
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "weight": 0.9852
+    },
+    {
+      "source": 443,
+      "target": 484,
+      "weight": 0.9803
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "weight": 0.9795
+    },
+    {
+      "source": 414,
+      "target": 426,
+      "weight": 0.9767
+    },
+    {
+      "source": 266,
+      "target": 268,
+      "weight": 0.9733
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "weight": 0.9632
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "weight": 0.9632
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "weight": 0.9632
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "weight": 0.9632
+    },
+    {
+      "source": 257,
+      "target": 261,
+      "weight": 0.9592
+    },
+    {
+      "source": 512,
+      "target": 577,
+      "weight": 0.9549
+    },
+    {
+      "source": 447,
+      "target": 478,
+      "weight": 0.9539
+    },
+    {
+      "source": 447,
+      "target": 486,
+      "weight": 0.9539
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "weight": 0.949
+    },
+    {
+      "source": 363,
+      "target": 364,
+      "weight": 0.944
+    },
+    {
+      "source": 363,
+      "target": 369,
+      "weight": 0.9392
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "weight": 0.9373
+    },
+    {
+      "source": 33,
+      "target": 143,
+      "weight": 0.9355
+    },
+    {
+      "source": 443,
+      "target": 451,
+      "weight": 0.9309
+    },
+    {
+      "source": 450,
+      "target": 457,
+      "weight": 0.9306
+    },
+    {
+      "source": 129,
+      "target": 394,
+      "weight": 0.9242
+    },
+    {
+      "source": 492,
+      "target": 493,
+      "weight": 0.9219
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "weight": 0.9207
+    },
+    {
+      "source": 457,
+      "target": 492,
+      "weight": 0.9191
+    },
+    {
+      "source": 416,
+      "target": 426,
+      "weight": 0.9166
+    },
+    {
+      "source": 413,
+      "target": 416,
+      "weight": 0.9151
+    },
+    {
+      "source": 277,
+      "target": 286,
+      "weight": 0.9129
+    },
+    {
+      "source": 451,
+      "target": 484,
+      "weight": 0.9125
+    },
+    {
+      "source": 451,
+      "target": 455,
+      "weight": 0.9111
+    },
+    {
+      "source": 97,
+      "target": 180,
+      "weight": 0.9108
+    },
+    {
+      "source": 277,
+      "target": 278,
+      "weight": 0.905
+    },
+    {
+      "source": 212,
+      "target": 226,
+      "weight": 0.9024
+    },
+    {
+      "source": 212,
+      "target": 228,
+      "weight": 0.9024
+    },
+    {
+      "source": 449,
+      "target": 480,
+      "weight": 0.8992
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "weight": 0.8956
+    },
+    {
+      "source": 213,
+      "target": 223,
+      "weight": 0.8948
+    },
+    {
+      "source": 478,
+      "target": 495,
+      "weight": 0.8947
+    },
+    {
+      "source": 486,
+      "target": 495,
+      "weight": 0.8947
+    },
+    {
+      "source": 414,
+      "target": 416,
+      "weight": 0.8945
+    },
+    {
+      "source": 212,
+      "target": 231,
+      "weight": 0.892
+    },
+    {
+      "source": 449,
+      "target": 488,
+      "weight": 0.8903
+    },
+    {
+      "source": 364,
+      "target": 369,
+      "weight": 0.8866
+    },
+    {
+      "source": 517,
+      "target": 529,
+      "weight": 0.8863
+    },
+    {
+      "source": 141,
+      "target": 179,
+      "weight": 0.8846
+    },
+    {
+      "source": 470,
+      "target": 481,
+      "weight": 0.8845
+    },
+    {
+      "source": 55,
+      "target": 202,
+      "weight": 0.8818
+    },
+    {
+      "source": 444,
+      "target": 455,
+      "weight": 0.8788
+    },
+    {
+      "source": 468,
+      "target": 481,
+      "weight": 0.8782
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "표시",
+      "score": 33.16778983321987
+    },
+    {
+      "keyword": "정보화",
+      "score": 27.74455314107328
+    },
+    {
+      "keyword": "소관부처",
+      "score": 19.4863774667126
+    },
+    {
+      "keyword": "회계",
+      "score": 18.75611457318908
+    },
+    {
+      "keyword": "구분 회계",
+      "score": 18.669866386527453
+    },
+    {
+      "keyword": "회계 소관",
+      "score": 18.669866386527453
+    },
+    {
+      "keyword": "일반회계",
+      "score": 17.82712095719805
+    },
+    {
+      "keyword": "개는",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "개는 반드시",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "반드시",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "반드시 선택하시오",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "선택하시오",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "선택하시오 해당사항에",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "지원율 최소한",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "최소한",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "최소한 개는",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "해당사항에",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "해당사항에 표시",
+      "score": 17.240782046854328
+    },
+    {
+      "keyword": "표시 직접",
+      "score": 17.185886886820334
+    },
+    {
+      "keyword": "사항에",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "사항에 표시",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "작성유의사항",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "작성유의사항 참조",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "참조",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "참조 해당하는",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "해당하는 사항에",
+      "score": 17.016568188664078
+    },
+    {
+      "keyword": "공통요구자료",
+      "score": 16.98232753137023
+    },
+    {
+      "keyword": "공통요구자료 작성유의사항",
+      "score": 16.98232753137023
+    },
+    {
+      "keyword": "성격 공통요구자료",
+      "score": 16.98232753137023
+    },
+    {
+      "keyword": "해당하는",
+      "score": 16.97160000418245
+    },
+    {
+      "keyword": "표시 예비타당성",
+      "score": 16.949639789807467
+    },
+    {
+      "keyword": "일반",
+      "score": 16.71835638108229
+    },
+    {
+      "keyword": "과학기술",
+      "score": 15.649489909995994
+    },
+    {
+      "keyword": "소관부처 시행주체",
+      "score": 15.38095967294958
+    },
+    {
+      "keyword": "시행주체",
+      "score": 15.38095967294958
+    },
+    {
+      "keyword": "담당자",
+      "score": 15.17207648576674
+    },
+    {
+      "keyword": "융자율 소관부처",
+      "score": 14.72481140733229
+    },
+    {
+      "keyword": "융자율 담당자",
+      "score": 14.33240792662984
+    },
+    {
+      "keyword": "기술개발",
+      "score": 14.008679752402568
+    },
+    {
+      "keyword": "301",
+      "score": 13.235019047796285
+    },
+    {
+      "keyword": "성격 예비타당성",
+      "score": 12.599125733116312
+    },
+    {
+      "keyword": "지원율 직접",
+      "score": 12.31534020700334
+    },
+    {
+      "keyword": "사업시행주체",
+      "score": 11.825669355947317
+    },
+    {
+      "keyword": "에너지",
+      "score": 11.78047790449279
+    },
+    {
+      "keyword": "2601",
+      "score": 11.708133102139731
+    },
+    {
+      "keyword": "정보통신",
+      "score": 11.522323082314658
+    },
+    {
+      "keyword": "302",
+      "score": 11.507028870808758
+    },
+    {
+      "keyword": "정보통신부",
+      "score": 10.506400946848707
+    },
+    {
+      "keyword": "전자정부",
+      "score": 10.44212407264646
+    },
+    {
+      "keyword": "130",
+      "score": 10.250176832166469
+    },
+    {
+      "keyword": "통신",
+      "score": 10.046946593210945
+    },
+    {
+      "keyword": "300",
+      "score": 9.58920554080924
+    },
+    {
+      "keyword": "130 133",
+      "score": 9.552327530646341
+    },
+    {
+      "keyword": "133",
+      "score": 9.552327530646341
+    },
+    {
+      "keyword": "공공행정",
+      "score": 9.530736746734117
+    },
+    {
+      "keyword": "공공행정 전자정부",
+      "score": 9.530736746734117
+    },
+    {
+      "keyword": "통신 정보통신",
+      "score": 9.499404848003463
+    },
+    {
+      "keyword": "정보통신 구분",
+      "score": 9.317785541687375
+    },
+    {
+      "keyword": "산업",
+      "score": 9.258905001887076
+    },
+    {
+      "keyword": "중소기업",
+      "score": 9.155423736942714
+    },
+    {
+      "keyword": "환경",
+      "score": 8.736192432824613
+    },
+    {
+      "keyword": "500",
+      "score": 8.519674994211147
+    },
+    {
+      "keyword": "명칭 정보통신부",
+      "score": 8.488468786803477
+    },
+    {
+      "keyword": "연구운영비",
+      "score": 8.183240573659566
+    },
+    {
+      "keyword": "플랫폼",
+      "score": 7.965051597001444
+    },
+    {
+      "keyword": "국토교통부",
+      "score": 7.93794966703984
+    },
+    {
+      "keyword": "110",
+      "score": 7.9134719533884335
+    },
+    {
+      "keyword": "일반회계 명칭",
+      "score": 7.90770227124409
+    },
+    {
+      "keyword": "산업 중소기업",
+      "score": 7.768830576100903
+    },
+    {
+      "keyword": "100",
+      "score": 7.704439619058336
+    },
+    {
+      "keyword": "기타",
+      "score": 7.6447881610739055
+    },
+    {
+      "keyword": "2241",
+      "score": 7.446007048891321
+    },
+    {
+      "keyword": "중소기업 명칭",
+      "score": 7.325833812300188
+    },
+    {
+      "keyword": "133 일반회계",
+      "score": 7.047104895240253
+    },
+    {
+      "keyword": "코드 과학기술",
+      "score": 6.9958257607398675
+    },
+    {
+      "keyword": "바이오",
+      "score": 6.992644756938673
+    },
+    {
+      "keyword": "기후",
+      "score": 6.980924385357782
+    },
+    {
+      "keyword": "환경 기후",
+      "score": 6.953575973244099
+    },
+    {
+      "keyword": "에너지 환경",
+      "score": 6.931335882842754
+    },
+    {
+      "keyword": "특별회계",
+      "score": 6.875063634087402
+    },
+    {
+      "keyword": "120",
+      "score": 6.691916333616667
+    },
+    {
+      "keyword": "의료",
+      "score": 6.571298317465864
+    },
+    {
+      "keyword": "교육",
+      "score": 6.535144096492249
+    },
+    {
+      "keyword": "2600",
+      "score": 6.523669522328415
+    },
+    {
+      "keyword": "코드 2600",
+      "score": 6.523669522328415
+    },
+    {
+      "keyword": "안전",
+      "score": 6.483006246759943
+    },
+    {
+      "keyword": "코드 110",
+      "score": 6.448535472244555
+    },
+    {
+      "keyword": "303",
+      "score": 6.372869763934065
+    },
+    {
+      "keyword": "2602",
+      "score": 6.37266104594173
+    },
+    {
+      "keyword": "304",
+      "score": 6.286553819106238
+    },
+    {
+      "keyword": "기금",
+      "score": 6.247021868647868
+    },
+    {
+      "keyword": "정보화 성격",
+      "score": 6.221794084569751
+    },
+    {
+      "keyword": "150",
+      "score": 6.17431020419151
+    },
+    {
+      "keyword": "126",
+      "score": 6.167886851151439
+    },
+    {
+      "keyword": "120 126",
+      "score": 6.158458873886467
+    },
+    {
+      "keyword": "117",
+      "score": 6.151740868813128
+    },
+    {
+      "keyword": "명칭 인공지능데이터진흥",
+      "score": 6.145651016302894
+    },
+    {
+      "keyword": "인공지능데이터진흥",
+      "score": 6.145651016302894
+    },
+    {
+      "keyword": "110 117",
+      "score": 6.135321182192172
+    },
+    {
+      "keyword": "2033",
+      "score": 6.078139092782482
+    }
+  ]
+}

@@ -1,0 +1,1691 @@
+{
+  "total_domains": 13,
+  "domain_project_count": [
+    {
+      "label": "공공행정/전자정부",
+      "value": 116.0
+    },
+    {
+      "label": "기타",
+      "value": 74.0
+    },
+    {
+      "label": "에너지/환경/기후",
+      "value": 68.0
+    },
+    {
+      "label": "제조/스마트팩토리",
+      "value": 57.0
+    },
+    {
+      "label": "의료/바이오",
+      "value": 55.0
+    },
+    {
+      "label": "데이터/플랫폼",
+      "value": 54.0
+    },
+    {
+      "label": "교육/문화/콘텐츠",
+      "value": 45.0
+    },
+    {
+      "label": "안전/치안/재난",
+      "value": 43.0
+    },
+    {
+      "label": "농림/식품",
+      "value": 23.0
+    },
+    {
+      "label": "교통/물류/스마트시티",
+      "value": 19.0
+    },
+    {
+      "label": "국방/방산",
+      "value": 13.0
+    },
+    {
+      "label": "AI인프라/컴퓨팅",
+      "value": 12.0
+    },
+    {
+      "label": "해양/수산",
+      "value": 4.0
+    }
+  ],
+  "domain_budget": [
+    {
+      "label": "공공행정/전자정부",
+      "value": 979293.0
+    },
+    {
+      "label": "제조/스마트팩토리",
+      "value": 709495.0
+    },
+    {
+      "label": "에너지/환경/기후",
+      "value": 92550.0
+    },
+    {
+      "label": "안전/치안/재난",
+      "value": 58353.0
+    },
+    {
+      "label": "교육/문화/콘텐츠",
+      "value": 23064.0
+    },
+    {
+      "label": "기타",
+      "value": 18286.0
+    },
+    {
+      "label": "의료/바이오",
+      "value": 18039.0
+    },
+    {
+      "label": "농림/식품",
+      "value": 11933.0
+    },
+    {
+      "label": "교통/물류/스마트시티",
+      "value": 11790.0
+    },
+    {
+      "label": "데이터/플랫폼",
+      "value": 10753.0
+    },
+    {
+      "label": "국방/방산",
+      "value": 2464.0
+    },
+    {
+      "label": "AI인프라/컴퓨팅",
+      "value": 1462.0
+    },
+    {
+      "label": "해양/수산",
+      "value": 465.0
+    }
+  ],
+  "ministry_domain_matrix": [
+    {
+      "ministry": "감사원",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 613399,
+      "교육/문화/콘텐츠": 1100,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 0,
+      "기타": 6400,
+      "농림/식품": 0,
+      "데이터/플랫폼": 2000,
+      "안전/치안/재난": 41523,
+      "에너지/환경/기후": 0,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 369577,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "경찰청",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 120,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 0,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 0,
+      "에너지/환경/기후": 0,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 0,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "과학기술정보통신부",
+      "AI인프라/컴퓨팅": 1462,
+      "공공행정/전자정부": 17915,
+      "교육/문화/콘텐츠": 6009,
+      "교통/물류/스마트시티": 515,
+      "국방/방산": 146,
+      "기타": 10652,
+      "농림/식품": 285,
+      "데이터/플랫폼": 8753,
+      "안전/치안/재난": 554,
+      "에너지/환경/기후": 9589,
+      "의료/바이오": 2456,
+      "제조/스마트팩토리": 207578,
+      "해양/수산": 133
+    },
+    {
+      "ministry": "관세청",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 6614,
+      "교육/문화/콘텐츠": 9065,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 294,
+      "기타": 0,
+      "농림/식품": 0,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 0,
+      "에너지/환경/기후": 0,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 0,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "국토교통부",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 51686,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 10314,
+      "국방/방산": 0,
+      "기타": 1211,
+      "농림/식품": 0,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 120,
+      "에너지/환경/기후": 3100,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 7726,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "기타",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 0,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 103,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 0,
+      "에너지/환경/기후": 0,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 0,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "기후에너지환경부",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 246491,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 5614,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 5668,
+      "에너지/환경/기후": 16995,
+      "의료/바이오": 202,
+      "제조/스마트팩토리": 74738,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "대법원",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 21224,
+      "교육/문화/콘텐츠": 6890,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 2024,
+      "기타": 23,
+      "농림/식품": 5700,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 6663,
+      "에너지/환경/기후": 4561,
+      "의료/바이오": 6142,
+      "제조/스마트팩토리": 23,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "산업통상부",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 0,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 0,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 117,
+      "에너지/환경/기후": 52065,
+      "의료/바이오": 585,
+      "제조/스마트팩토리": 43968,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "소방청",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 10716,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 155,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 0,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 3680,
+      "에너지/환경/기후": 6240,
+      "의료/바이오": 8654,
+      "제조/스마트팩토리": 5857,
+      "해양/수산": 0
+    },
+    {
+      "ministry": "해양수산부",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 4940,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 806,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 231,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 28,
+      "에너지/환경/기후": 0,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 28,
+      "해양/수산": 332
+    },
+    {
+      "ministry": "행정안전부",
+      "AI인프라/컴퓨팅": 0,
+      "공공행정/전자정부": 6188,
+      "교육/문화/콘텐츠": 0,
+      "교통/물류/스마트시티": 0,
+      "국방/방산": 0,
+      "기타": 0,
+      "농림/식품": 0,
+      "데이터/플랫폼": 0,
+      "안전/치안/재난": 0,
+      "에너지/환경/기후": 0,
+      "의료/바이오": 0,
+      "제조/스마트팩토리": 0,
+      "해양/수산": 0
+    }
+  ],
+  "items": [
+    {
+      "domain": "AI인프라/컴퓨팅",
+      "project_count": 12,
+      "total_budget": 1462,
+      "avg_budget": 121.83,
+      "ministry_budget_top10": {
+        "과학기술정보통신부": 1462
+      },
+      "ministry_count_top10": {
+        "과학기술정보통신부": 12
+      },
+      "status_distribution": {
+        "계속": 12
+      },
+      "category_distribution": {
+        "R&D": 9,
+        "일반": 3
+      },
+      "top_projects": [
+        {
+          "project_name": "(66) AI+S&T 혁신 기술개발(R&D) (1159-445)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1004,
+          "change_rate": -86.63
+        },
+        {
+          "project_name": "(61) 국가 플래그십 초고성능컴퓨팅 인프라 고도화(R&D) (1159-425)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1004,
+          "change_rate": -86.63
+        },
+        {
+          "project_name": "(68) 민관협력 기반 AI 휴머노이드 원천기술 고도화(R&D) (1159-447)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1004,
+          "change_rate": -86.63
+        },
+        {
+          "project_name": "(44) 반도체원천기술개발사업(R&D) (1139-453)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -984,
+          "change_rate": -86.39
+        },
+        {
+          "project_name": "(54) 지역거점AX혁신 기술개발(R&D)(4231-426)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -4076,
+          "change_rate": -96.34
+        },
+        {
+          "project_name": "(67) 차세대 AI+S&T 기반 기술개발(R&D) (1159-446)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1004,
+          "change_rate": -86.63
+        },
+        {
+          "project_name": "(339) 4대 지역외 AX 대전환 기획(4231-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -4098,
+          "change_rate": -96.86
+        },
+        {
+          "project_name": "(145) AI기반 개방형 자율 디지털트윈 핵심기술개발 (2033-396)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 133,
+          "change_amount": -1900,
+          "change_rate": -93.46
+        },
+        {
+          "project_name": "(19) AI반도체첨단이종집적기술개발(R&D) (2137-307)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 133,
+          "change_amount": -2004,
+          "change_rate": -93.78
+        },
+        {
+          "project_name": "(179) AX혁신기업창의기술개발(R&D) (2137-375)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 133,
+          "change_amount": -2004,
+          "change_rate": -93.78
+        }
+      ]
+    },
+    {
+      "domain": "공공행정/전자정부",
+      "project_count": 116,
+      "total_budget": 979293,
+      "avg_budget": 8442.18,
+      "ministry_budget_top10": {
+        "감사원": 613399,
+        "기후에너지환경부": 246491,
+        "국토교통부": 51686,
+        "대법원": 21224,
+        "과학기술정보통신부": 17915,
+        "소방청": 10716,
+        "관세청": 6614,
+        "행정안전부": 6188,
+        "해양수산부": 4940,
+        "경찰청": 120
+      },
+      "ministry_count_top10": {
+        "국토교통부": 36,
+        "행정안전부": 15,
+        "관세청": 11,
+        "기후에너지환경부": 10,
+        "해양수산부": 10,
+        "과학기술정보통신부": 9,
+        "감사원": 8,
+        "대법원": 7,
+        "경찰청": 5,
+        "소방청": 5
+      },
+      "status_distribution": {
+        "계속": 114,
+        "신규": 2
+      },
+      "category_distribution": {
+        "R&D": 55,
+        "정보화": 45,
+        "일반": 16
+      },
+      "top_projects": [
+        {
+          "project_name": "실·국·과(팀)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 603198,
+          "change_amount": 601173,
+          "change_rate": 29687.56
+        },
+        {
+          "project_name": "에너지전환정책실 전력망전책관",
+          "ministry": "기후에너지환경부",
+          "category": "일반",
+          "budget_2026": 217116,
+          "change_amount": 215091,
+          "change_rate": 10621.78
+        },
+        {
+          "project_name": "K-그리드 기후에너지 에너지전환정책실 전력망전책관",
+          "ministry": "기후에너지환경부",
+          "category": "일반",
+          "budget_2026": 24500,
+          "change_amount": 22475,
+          "change_rate": 1109.88
+        },
+        {
+          "project_name": "정보통신정책실",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 12000,
+          "change_amount": 9975,
+          "change_rate": 492.59
+        },
+        {
+          "project_name": "병무행정정보화 (7138-501)",
+          "ministry": "대법원",
+          "category": "정보화",
+          "budget_2026": 7100,
+          "change_amount": 6599,
+          "change_rate": 1317.17
+        },
+        {
+          "project_name": "(100) 노동위원회정보화운영(정보화)(7039-502)",
+          "ministry": "감사원",
+          "category": "정보화",
+          "budget_2026": 7000,
+          "change_amount": -39,
+          "change_rate": -0.55
+        },
+        {
+          "project_name": "법무행정정보화(정보화) (7034-500)",
+          "ministry": "대법원",
+          "category": "정보화",
+          "budget_2026": 7000,
+          "change_amount": 6500,
+          "change_rate": 1300.0
+        },
+        {
+          "project_name": "외교업무 디지털 혁신(정보화) (7031-505)",
+          "ministry": "소방청",
+          "category": "정보화",
+          "budget_2026": 7000,
+          "change_amount": 6495,
+          "change_rate": 1286.14
+        },
+        {
+          "project_name": "(1) AI응용제품 신속상용화 지원사업(국토·교통) (7036-310)",
+          "ministry": "국토교통부",
+          "category": "일반",
+          "budget_2026": 7000,
+          "change_amount": 6690,
+          "change_rate": 2158.06
+        },
+        {
+          "project_name": "스마트 산림재해 대응(정보화) (7035-507)",
+          "ministry": "대법원",
+          "category": "정보화",
+          "budget_2026": 7000,
+          "change_amount": 6493,
+          "change_rate": 1280.67
+        }
+      ]
+    },
+    {
+      "domain": "교육/문화/콘텐츠",
+      "project_count": 45,
+      "total_budget": 23064,
+      "avg_budget": 512.53,
+      "ministry_budget_top10": {
+        "관세청": 9065,
+        "대법원": 6890,
+        "과학기술정보통신부": 6009,
+        "감사원": 1100
+      },
+      "ministry_count_top10": {
+        "과학기술정보통신부": 19,
+        "관세청": 13,
+        "대법원": 12,
+        "감사원": 1
+      },
+      "status_distribution": {
+        "계속": 45
+      },
+      "category_distribution": {
+        "R&D": 21,
+        "일반": 20,
+        "정보화": 4
+      },
+      "top_projects": [
+        {
+          "project_name": "(6) AI 기반 관광 혁신 기술개발(R&D) (4264-606)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 4200,
+          "change_amount": 3594,
+          "change_rate": 593.07
+        },
+        {
+          "project_name": "(4) 산학연협력 고도화 지원 (2256-300)",
+          "ministry": "관세청",
+          "category": "일반",
+          "budget_2026": 2200,
+          "change_amount": 1900,
+          "change_rate": 633.33
+        },
+        {
+          "project_name": "(9) 대학정보공시 제도 운영(정보화) (2268-300)",
+          "ministry": "관세청",
+          "category": "정보화",
+          "budget_2026": 2200,
+          "change_amount": 1900,
+          "change_rate": 633.33
+        },
+        {
+          "project_name": "(3) 대학생 AI 기본 교육 지원 (2232-323)",
+          "ministry": "관세청",
+          "category": "일반",
+          "budget_2026": 2200,
+          "change_amount": 1877,
+          "change_rate": 581.11
+        },
+        {
+          "project_name": "(3) AI·SW중심대학 (2232-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 2200,
+          "change_amount": 1899,
+          "change_rate": 630.9
+        },
+        {
+          "project_name": "(2) 디지털선도기술핵심인재양성(R&D) (2133-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 2100,
+          "change_amount": 1799,
+          "change_rate": 597.67
+        },
+        {
+          "project_name": "(30) 직업능력개발담당자양성 및 훈련매체개발(1136-300)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 1100,
+          "change_amount": -36,
+          "change_rate": -3.17
+        },
+        {
+          "project_name": "(3) 디지털미디어이노베이션기술개발(R&D) (1131-520)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 1100,
+          "change_amount": 580,
+          "change_rate": 111.54
+        },
+        {
+          "project_name": "(5) 국가유산 지능형 첨단보존 기술개발(R&D) (1131-318)",
+          "ministry": "관세청",
+          "category": "R&D",
+          "budget_2026": 1100,
+          "change_amount": 782,
+          "change_rate": 245.91
+        },
+        {
+          "project_name": "(1) 방송콘텐츠 진흥 (1131-301)",
+          "ministry": "대법원",
+          "category": "일반",
+          "budget_2026": 1100,
+          "change_amount": 799,
+          "change_rate": 265.45
+        }
+      ]
+    },
+    {
+      "domain": "교통/물류/스마트시티",
+      "project_count": 19,
+      "total_budget": 11790,
+      "avg_budget": 620.53,
+      "ministry_budget_top10": {
+        "국토교통부": 10314,
+        "해양수산부": 806,
+        "과학기술정보통신부": 515,
+        "소방청": 155
+      },
+      "ministry_count_top10": {
+        "해양수산부": 8,
+        "국토교통부": 6,
+        "과학기술정보통신부": 4,
+        "소방청": 1
+      },
+      "status_distribution": {
+        "계속": 19
+      },
+      "category_distribution": {
+        "R&D": 9,
+        "일반": 6,
+        "정보화": 4
+      },
+      "top_projects": [
+        {
+          "project_name": "(6) 스마트시티확산사업 (5637-308)",
+          "ministry": "국토교통부",
+          "category": "일반",
+          "budget_2026": 5600,
+          "change_amount": 5292,
+          "change_rate": 1718.18
+        },
+        {
+          "project_name": "(9) 건설산업정보시스템 구축 및 운영(정보화) (4246-518)",
+          "ministry": "국토교통부",
+          "category": "정보화",
+          "budget_2026": 4200,
+          "change_amount": 3682,
+          "change_rate": 710.81
+        },
+        {
+          "project_name": "(76) 국제 거대전파망원경 건설 사업(R&D) (1634-306)",
+          "ministry": "소방청",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1479,
+          "change_rate": -90.51
+        },
+        {
+          "project_name": "(23) 국토지형관리(정보화) (5831-501)",
+          "ministry": "국토교통부",
+          "category": "정보화",
+          "budget_2026": 142,
+          "change_amount": -5689,
+          "change_rate": -97.56
+        },
+        {
+          "project_name": "(42) 광주 AI 실증도시 실현(기본계획 수립 용역비) (2601-417)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -2468,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(48) 해양문화도시 기반의 에이지테크 실증거점 조성(4231-302)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -4098,
+          "change_rate": -96.86
+        },
+        {
+          "project_name": "(25) 우편물류기술연구개발(R&D) (5141-401)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 132,
+          "change_amount": -5009,
+          "change_rate": -97.43
+        },
+        {
+          "project_name": "(22) 과적단속 효율화를 위한 화물차중량정보 플랫폼 구축 및 실증기술개발",
+          "ministry": "국토교통부",
+          "category": "R&D",
+          "budget_2026": 126,
+          "change_amount": -4036,
+          "change_rate": -96.97
+        },
+        {
+          "project_name": "(14) 국토이용정보체계 구축 및 운영(정보화) (4254-526)",
+          "ministry": "국토교통부",
+          "category": "정보화",
+          "budget_2026": 126,
+          "change_amount": -4128,
+          "change_rate": -97.04
+        },
+        {
+          "project_name": "(22) AI응용제품 신속상용화 지원사업 (2031-320)",
+          "ministry": "해양수산부",
+          "category": "일반",
+          "budget_2026": 126,
+          "change_amount": -1905,
+          "change_rate": -93.8
+        }
+      ]
+    },
+    {
+      "domain": "국방/방산",
+      "project_count": 13,
+      "total_budget": 2464,
+      "avg_budget": 189.54,
+      "ministry_budget_top10": {
+        "대법원": 2024,
+        "관세청": 294,
+        "과학기술정보통신부": 146
+      },
+      "ministry_count_top10": {
+        "관세청": 8,
+        "과학기술정보통신부": 3,
+        "대법원": 2
+      },
+      "status_distribution": {
+        "계속": 13
+      },
+      "category_distribution": {
+        "R&D": 5,
+        "일반": 5,
+        "정보화": 3
+      },
+      "top_projects": [
+        {
+          "project_name": "(6-10) 국방AI선도연구협력(R&D) (2631-407)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(301) 국방인공지능핵심기술개발(R&D) (2601-384)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 133,
+          "change_amount": -2468,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(74) AI응용제품 신속 상용화 지원사업 (국방) (2341-500)",
+          "ministry": "관세청",
+          "category": "일반",
+          "budget_2026": 42,
+          "change_amount": -2299,
+          "change_rate": -98.21
+        },
+        {
+          "project_name": "(79) 국내외 전문군사교육 (2432-304)",
+          "ministry": "관세청",
+          "category": "일반",
+          "budget_2026": 42,
+          "change_amount": -2390,
+          "change_rate": -98.27
+        },
+        {
+          "project_name": "(23) 국방ICT혁신기술 (2131-310)",
+          "ministry": "관세청",
+          "category": "정보화",
+          "budget_2026": 42,
+          "change_amount": -2089,
+          "change_rate": -98.03
+        },
+        {
+          "project_name": "(73) 민군기술협력R&D (2341-400)",
+          "ministry": "관세청",
+          "category": "R&D",
+          "budget_2026": 42,
+          "change_amount": -2299,
+          "change_rate": -98.21
+        },
+        {
+          "project_name": "(89) 전투발전연구 (2438-304)",
+          "ministry": "관세청",
+          "category": "일반",
+          "budget_2026": 42,
+          "change_amount": -2396,
+          "change_rate": -98.28
+        },
+        {
+          "project_name": "(18) 정보체계개발유지 (2131-302)",
+          "ministry": "관세청",
+          "category": "정보화",
+          "budget_2026": 42,
+          "change_amount": -2089,
+          "change_rate": -98.03
+        },
+        {
+          "project_name": "(17) 정보통신기반체계 구축 (2131-301)",
+          "ministry": "관세청",
+          "category": "정보화",
+          "budget_2026": 42,
+          "change_amount": -2089,
+          "change_rate": -98.03
+        },
+        {
+          "project_name": "(295) AI 기반 주파수 간섭분석 및 전파 예측기술 개발(R&D) (2535-335)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 13,
+          "change_amount": -2522,
+          "change_rate": -99.49
+        }
+      ]
+    },
+    {
+      "domain": "기타",
+      "project_count": 74,
+      "total_budget": 18286,
+      "avg_budget": 247.11,
+      "ministry_budget_top10": {
+        "과학기술정보통신부": 10652,
+        "감사원": 6400,
+        "국토교통부": 1211,
+        "대법원": 23,
+        "관세청": 0,
+        "산업통상부": 0,
+        "소방청": 0
+      },
+      "ministry_count_top10": {
+        "과학기술정보통신부": 62,
+        "감사원": 5,
+        "국토교통부": 2,
+        "대법원": 2,
+        "관세청": 1,
+        "산업통상부": 1,
+        "소방청": 1
+      },
+      "status_distribution": {
+        "계속": 74
+      },
+      "category_distribution": {
+        "R&D": 36,
+        "일반": 34,
+        "정보화": 4
+      },
+      "top_projects": [
+        {
+          "project_name": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 2200,
+          "change_amount": 1771,
+          "change_rate": 412.82
+        },
+        {
+          "project_name": "(41) 취약노동자지원(2031-303)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 2000,
+          "change_amount": -31,
+          "change_rate": -1.53
+        },
+        {
+          "project_name": "(12) 내일배움카드(고보)(1151-352)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 1100,
+          "change_amount": -51,
+          "change_rate": -4.43
+        },
+        {
+          "project_name": "(13) 사업주직업훈련지원금(1152-350)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 1100,
+          "change_amount": -52,
+          "change_rate": -4.51
+        },
+        {
+          "project_name": "가. (25) 직업능력개발심사평가(1133-300)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 1100,
+          "change_amount": -33,
+          "change_rate": -2.91
+        },
+        {
+          "project_name": "선진예보시스템 구축 및 운영(정보화) (1140-501)",
+          "ministry": "국토교통부",
+          "category": "정보화",
+          "budget_2026": 1100,
+          "change_amount": 599,
+          "change_rate": 119.56
+        },
+        {
+          "project_name": "가. (23) 내일배움카드(일반)(1131-300)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 1100,
+          "change_amount": -31,
+          "change_rate": -2.74
+        },
+        {
+          "project_name": "(52) 스마트팜다부처패키지혁신기술개발(R&D) (1158-428)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1003,
+          "change_rate": -86.61
+        },
+        {
+          "project_name": "(105) 불법 마약류 대응을 위한 현장기술 개발(R&D) (1531-432)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -1376,
+          "change_rate": -89.88
+        },
+        {
+          "project_name": "(46) 인간-AI 협업형 LAM 개발·글로벌 실증(R&D) (4231-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -4076,
+          "change_rate": -96.34
+        }
+      ]
+    },
+    {
+      "domain": "농림/식품",
+      "project_count": 23,
+      "total_budget": 11933,
+      "avg_budget": 518.83,
+      "ministry_budget_top10": {
+        "대법원": 5700,
+        "기후에너지환경부": 5614,
+        "과학기술정보통신부": 285,
+        "해양수산부": 231,
+        "기타": 103
+      },
+      "ministry_count_top10": {
+        "기후에너지환경부": 13,
+        "대법원": 4,
+        "해양수산부": 3,
+        "과학기술정보통신부": 2,
+        "기타": 1
+      },
+      "status_distribution": {
+        "계속": 23
+      },
+      "category_distribution": {
+        "R&D": 18,
+        "일반": 3,
+        "정보화": 2
+      },
+      "top_projects": [
+        {
+          "project_name": "(8) 농업기술정보화(정보화) (2333-500)",
+          "ministry": "기후에너지환경부",
+          "category": "정보화",
+          "budget_2026": 2300,
+          "change_amount": 1800,
+          "change_rate": 360.0
+        },
+        {
+          "project_name": "(7) 국가농업AX플랫폼 (2220-300)",
+          "ministry": "기후에너지환경부",
+          "category": "일반",
+          "budget_2026": 2200,
+          "change_amount": 1900,
+          "change_rate": 633.33
+        },
+        {
+          "project_name": "임업현장 맞춤형 푸드테크 기술개발(R&D) (1541-311)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 1500,
+          "change_amount": 1189,
+          "change_rate": 382.32
+        },
+        {
+          "project_name": "디지털 기반 산림 우수종자 생산공급 기술개발(R&D) (1541-310)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 1500,
+          "change_amount": 1190,
+          "change_rate": 383.87
+        },
+        {
+          "project_name": "고성능 목재수확 기계장비 개발(R&D) (1541-309)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 1500,
+          "change_amount": 1191,
+          "change_rate": 385.44
+        },
+        {
+          "project_name": "산림과학연구(R&D) (1251-300)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 1200,
+          "change_amount": 900,
+          "change_rate": 300.0
+        },
+        {
+          "project_name": "(236) 한국식품연구원 연구운영비 지원(R&D) (2241-425）",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 152,
+          "change_amount": -2089,
+          "change_rate": -93.22
+        },
+        {
+          "project_name": "(35) AI융합 지능형 농업 생태계 구축 (2601-408)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -2468,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(124) 고부가가치식품기술개발(R&D) (2810-420)",
+          "ministry": "기후에너지환경부",
+          "category": "R&D",
+          "budget_2026": 104,
+          "change_amount": -2706,
+          "change_rate": -96.3
+        },
+        {
+          "project_name": "(114) 스마트수산업 응용기술 국산화 및 실증연구(R&D) (3632-320)",
+          "ministry": "기타",
+          "category": "R&D",
+          "budget_2026": 103,
+          "change_amount": -3529,
+          "change_rate": -97.16
+        }
+      ]
+    },
+    {
+      "domain": "데이터/플랫폼",
+      "project_count": 54,
+      "total_budget": 10753,
+      "avg_budget": 199.13,
+      "ministry_budget_top10": {
+        "과학기술정보통신부": 8753,
+        "감사원": 2000
+      },
+      "ministry_count_top10": {
+        "과학기술정보통신부": 52,
+        "감사원": 2
+      },
+      "status_distribution": {
+        "계속": 54
+      },
+      "category_distribution": {
+        "일반": 27,
+        "R&D": 24,
+        "정보화": 3
+      },
+      "top_projects": [
+        {
+          "project_name": "(1) 공존가능한 신뢰 AI를 위한 AI Safety 기술개발 (2601-390)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 2600,
+          "change_amount": 2210,
+          "change_rate": 566.67
+        },
+        {
+          "project_name": "(22) 디지털 기반의 고용서비스 인프라 지원(정보화)(1075-303)",
+          "ministry": "감사원",
+          "category": "정보화",
+          "budget_2026": 1000,
+          "change_amount": -75,
+          "change_rate": -6.98
+        },
+        {
+          "project_name": "(21) 일자리정보플랫폼 기반 AI 고용서비스 지원(정보화)(1075-302)",
+          "ministry": "감사원",
+          "category": "정보화",
+          "budget_2026": 1000,
+          "change_amount": -75,
+          "change_rate": -6.98
+        },
+        {
+          "project_name": "(49) 협업지능 피지컬AI 기반 SW플랫폼 연구개발 생태계 조성(R&D)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -4076,
+          "change_rate": -96.34
+        },
+        {
+          "project_name": "(323) AI·공간컴퓨팅 창업 생태계 활성화 (2602-366)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -2469,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(305) 인간지향적차세대도전형AI기술개발 (2601-388)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 133,
+          "change_amount": -2468,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(335) 국산 AI반도체 기반 마이크로데이터센터 확산(R&D) (2603-328)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 133,
+          "change_amount": -2470,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(39) 데이터 활용확산 정책지원 (2601-303)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -2468,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(44) 데이터경제인프라구축 (2604-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -2471,
+          "change_rate": -94.89
+        },
+        {
+          "project_name": "(31) 데이터기반산업경쟁력강화 (2604-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -2471,
+          "change_rate": -94.89
+        }
+      ]
+    },
+    {
+      "domain": "안전/치안/재난",
+      "project_count": 43,
+      "total_budget": 58353,
+      "avg_budget": 1357.05,
+      "ministry_budget_top10": {
+        "감사원": 41523,
+        "대법원": 6663,
+        "기후에너지환경부": 5668,
+        "소방청": 3680,
+        "과학기술정보통신부": 554,
+        "국토교통부": 120,
+        "산업통상부": 117,
+        "해양수산부": 28
+      },
+      "ministry_count_top10": {
+        "감사원": 12,
+        "대법원": 9,
+        "기후에너지환경부": 7,
+        "과학기술정보통신부": 5,
+        "소방청": 5,
+        "국토교통부": 2,
+        "산업통상부": 2,
+        "해양수산부": 1
+      },
+      "status_distribution": {
+        "계속": 43
+      },
+      "category_distribution": {
+        "R&D": 21,
+        "일반": 15,
+        "정보화": 7
+      },
+      "top_projects": [
+        {
+          "project_name": "가. (8) AI 기반 분산·예비전력 안전관리 통합 플랫폼 개발 및 실증(R&D)(5144-327)",
+          "ministry": "기후에너지환경부",
+          "category": "R&D",
+          "budget_2026": 5100,
+          "change_amount": 4773,
+          "change_rate": 1459.63
+        },
+        {
+          "project_name": "과학기술기반군중밀집관리기술개발(R&D) (4431-720)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3680,
+          "change_rate": 511.11
+        },
+        {
+          "project_name": "과학적범죄수사고도화기술개발(R&D) (4431-631)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3769,
+          "change_rate": 597.31
+        },
+        {
+          "project_name": "불법마약류대응을위한현장기술개발(R&D) (4431-718)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3682,
+          "change_rate": 512.81
+        },
+        {
+          "project_name": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3674,
+          "change_rate": 506.06
+        },
+        {
+          "project_name": "사이버수사지원기술개발(R&D) (4431-710)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3690,
+          "change_rate": 519.72
+        },
+        {
+          "project_name": "차세대지능형순찰플랫폼개발(R&D) (4431-724)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3676,
+          "change_rate": 507.73
+        },
+        {
+          "project_name": "치안데이터활용기술개발(R&D) (4431-730)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4400,
+          "change_amount": 3670,
+          "change_rate": 502.74
+        },
+        {
+          "project_name": "경찰정보화기반고도화(정보화) (4234-511)",
+          "ministry": "감사원",
+          "category": "정보화",
+          "budget_2026": 4200,
+          "change_amount": 3689,
+          "change_rate": 721.92
+        },
+        {
+          "project_name": "(23) 미래환경변화대응 산업안전보건 연구개발(R&D)(4155-361)",
+          "ministry": "감사원",
+          "category": "R&D",
+          "budget_2026": 4100,
+          "change_amount": -55,
+          "change_rate": -1.32
+        }
+      ]
+    },
+    {
+      "domain": "에너지/환경/기후",
+      "project_count": 68,
+      "total_budget": 92550,
+      "avg_budget": 1361.03,
+      "ministry_budget_top10": {
+        "산업통상부": 52065,
+        "기후에너지환경부": 16995,
+        "과학기술정보통신부": 9589,
+        "소방청": 6240,
+        "대법원": 4561,
+        "국토교통부": 3100
+      },
+      "ministry_count_top10": {
+        "산업통상부": 21,
+        "기후에너지환경부": 18,
+        "과학기술정보통신부": 12,
+        "소방청": 11,
+        "대법원": 5,
+        "국토교통부": 1
+      },
+      "status_distribution": {
+        "계속": 68
+      },
+      "category_distribution": {
+        "일반": 35,
+        "R&D": 31,
+        "정보화": 2
+      },
+      "top_projects": [
+        {
+          "project_name": "(1) 자원안보를 위한 고부가가치 한국형 텅스텐 전주기 기술 개발 및 실증 (5702-317)",
+          "ministry": "산업통상부",
+          "category": "일반",
+          "budget_2026": 5700,
+          "change_amount": 5383,
+          "change_rate": 1698.11
+        },
+        {
+          "project_name": "(8) 물산업정책 및 국제협력(5131-303)",
+          "ministry": "기후에너지환경부",
+          "category": "일반",
+          "budget_2026": 5100,
+          "change_amount": 4797,
+          "change_rate": 1583.17
+        },
+        {
+          "project_name": "가. (1) K-그리드 인재·창업 밸리 조성(5139-301)",
+          "ministry": "기후에너지환경부",
+          "category": "일반",
+          "budget_2026": 5100,
+          "change_amount": 4799,
+          "change_rate": 1594.35
+        },
+        {
+          "project_name": "(1) 뿌리산업경쟁력강화지원 (3574-301)",
+          "ministry": "산업통상부",
+          "category": "일반",
+          "budget_2026": 3500,
+          "change_amount": 3199,
+          "change_rate": 1062.79
+        },
+        {
+          "project_name": "(1) 섬유패션산업활성화기반마련 (3535-304)",
+          "ministry": "산업통상부",
+          "category": "일반",
+          "budget_2026": 3500,
+          "change_amount": 3196,
+          "change_rate": 1051.32
+        },
+        {
+          "project_name": "(1) PIM인공지능반도체핵심기술개발(R&D) (3561-302)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3500,
+          "change_amount": 3198,
+          "change_rate": 1058.94
+        },
+        {
+          "project_name": "(1) 기계장비산업기술개발(R&D) (3231-304)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3200,
+          "change_amount": 2896,
+          "change_rate": 952.63
+        },
+        {
+          "project_name": "(1) 소재부품산업기술개발기반구축(R&D) (3232-303)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3200,
+          "change_amount": 2897,
+          "change_rate": 956.11
+        },
+        {
+          "project_name": "(1) 산업기술국제협력(R&D) (3171-320)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3100,
+          "change_amount": 2780,
+          "change_rate": 868.75
+        },
+        {
+          "project_name": "(1) 민관공동투자반도체고급인력양성(R&D) (3161-416)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3100,
+          "change_amount": 2684,
+          "change_rate": 645.19
+        }
+      ]
+    },
+    {
+      "domain": "의료/바이오",
+      "project_count": 55,
+      "total_budget": 18039,
+      "avg_budget": 327.98,
+      "ministry_budget_top10": {
+        "소방청": 8654,
+        "대법원": 6142,
+        "과학기술정보통신부": 2456,
+        "산업통상부": 585,
+        "기후에너지환경부": 202
+      },
+      "ministry_count_top10": {
+        "대법원": 20,
+        "과학기술정보통신부": 18,
+        "소방청": 10,
+        "산업통상부": 5,
+        "기후에너지환경부": 2
+      },
+      "status_distribution": {
+        "계속": 55
+      },
+      "category_distribution": {
+        "R&D": 36,
+        "일반": 18,
+        "정보화": 1
+      },
+      "top_projects": [
+        {
+          "project_name": "보건산업정책국",
+          "ministry": "대법원",
+          "category": "일반",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "소관부처 보건의료정책실 한의약정책관 한의약산업과",
+          "ministry": "대법원",
+          "category": "일반",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(1) 국가통합바이오빅데이터구축사업II(R&D) (6634-352)",
+          "ministry": "소방청",
+          "category": "R&D",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(1) 국가 통합 바이오 빅데이터 구축사업(R&D) (6634-345)",
+          "ministry": "소방청",
+          "category": "R&D",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(1) 공공기관 임무중심 감염병연구 다부처협력사업(R&D) (6634-365)",
+          "ministry": "소방청",
+          "category": "R&D",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(1) 헬스케어 이종데이터 활용체계 및 인공지능 개발(R&D) (6634-331)",
+          "ministry": "소방청",
+          "category": "R&D",
+          "budget_2026": 2024,
+          "change_amount": 2024,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "산림분야 그린바이오 미래형 가치사슬 기술개발(R&D) (1544-321)",
+          "ministry": "대법원",
+          "category": "R&D",
+          "budget_2026": 1500,
+          "change_amount": 1179,
+          "change_rate": 367.29
+        },
+        {
+          "project_name": "(36) AIxBio 혁신 연구거점 조성 시범사업(R&D) (1138-502)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -983,
+          "change_rate": -86.38
+        },
+        {
+          "project_name": "(29) 디지털 AI세포 구축(1138-482)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -983,
+          "change_rate": -86.38
+        },
+        {
+          "project_name": "(30) AI-네이티브 첨단바이오 자율실험실(R&D) (1138-486)",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 155,
+          "change_amount": -983,
+          "change_rate": -86.38
+        }
+      ]
+    },
+    {
+      "domain": "제조/스마트팩토리",
+      "project_count": 57,
+      "total_budget": 709495,
+      "avg_budget": 12447.28,
+      "ministry_budget_top10": {
+        "감사원": 369577,
+        "과학기술정보통신부": 207578,
+        "기후에너지환경부": 74738,
+        "산업통상부": 43968,
+        "국토교통부": 7726,
+        "소방청": 5857,
+        "해양수산부": 28,
+        "대법원": 23,
+        "관세청": 0
+      },
+      "ministry_count_top10": {
+        "산업통상부": 26,
+        "기후에너지환경부": 10,
+        "소방청": 7,
+        "과학기술정보통신부": 6,
+        "국토교통부": 3,
+        "감사원": 2,
+        "관세청": 1,
+        "대법원": 1,
+        "해양수산부": 1
+      },
+      "status_distribution": {
+        "계속": 52,
+        "신규": 5
+      },
+      "category_distribution": {
+        "R&D": 42,
+        "일반": 13,
+        "정보화": 2
+      },
+      "top_projects": [
+        {
+          "project_name": "실·국·과(팀)",
+          "ministry": "감사원",
+          "category": "일반",
+          "budget_2026": 368023,
+          "change_amount": 368023,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "소프트웨어정책과",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 130400,
+          "change_amount": 128375,
+          "change_rate": 6339.51
+        },
+        {
+          "project_name": "소관부처",
+          "ministry": "과학기술정보통신부",
+          "category": "R&D",
+          "budget_2026": 76664,
+          "change_amount": 74639,
+          "change_rate": 3685.88
+        },
+        {
+          "project_name": "연구개발정책실 미래전략기술정책관",
+          "ministry": "기후에너지환경부",
+          "category": "R&D",
+          "budget_2026": 59182,
+          "change_amount": 57157,
+          "change_rate": 2822.57
+        },
+        {
+          "project_name": "차세대",
+          "ministry": "기후에너지환경부",
+          "category": "R&D",
+          "budget_2026": 4500,
+          "change_amount": 4500,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(7) 공동주택건설 생산성 혁신을 위한 다용도-건설작업 로봇설계 및",
+          "ministry": "국토교통부",
+          "category": "R&D",
+          "budget_2026": 4100,
+          "change_amount": 3724,
+          "change_rate": 990.43
+        },
+        {
+          "project_name": "자원안보를 실·국·과(팀) 과 장 서기관 주무관",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 4000,
+          "change_amount": 4000,
+          "change_rate": 999.0
+        },
+        {
+          "project_name": "(1) 자동차산업기술개발(R&D) (3551-301)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3500,
+          "change_amount": 3199,
+          "change_rate": 1062.79
+        },
+        {
+          "project_name": "(1) 조선해양산업기술개발(R&D) (3551-302)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3500,
+          "change_amount": 3198,
+          "change_rate": 1058.94
+        },
+        {
+          "project_name": "(1) 로봇산업기술개발(R&D) (3541-301)",
+          "ministry": "산업통상부",
+          "category": "R&D",
+          "budget_2026": 3500,
+          "change_amount": 3199,
+          "change_rate": 1062.79
+        }
+      ]
+    },
+    {
+      "domain": "해양/수산",
+      "project_count": 4,
+      "total_budget": 465,
+      "avg_budget": 116.25,
+      "ministry_budget_top10": {
+        "해양수산부": 332,
+        "과학기술정보통신부": 133
+      },
+      "ministry_count_top10": {
+        "해양수산부": 3,
+        "과학기술정보통신부": 1
+      },
+      "status_distribution": {
+        "계속": 4
+      },
+      "category_distribution": {
+        "R&D": 3,
+        "일반": 1
+      },
+      "top_projects": [
+        {
+          "project_name": "(13) 극지연구소 운영지원(R&D) (1110-301)",
+          "ministry": "해양수산부",
+          "category": "R&D",
+          "budget_2026": 152,
+          "change_amount": -958,
+          "change_rate": -86.31
+        },
+        {
+          "project_name": "(12) 한국해양과학기술원 운영지원(R&D) (1110-300)",
+          "ministry": "해양수산부",
+          "category": "R&D",
+          "budget_2026": 152,
+          "change_amount": -958,
+          "change_rate": -86.31
+        },
+        {
+          "project_name": "(46) AI선박 특화 플랫폼 및 애플리케이션 개발·실증 (4231-301)",
+          "ministry": "과학기술정보통신부",
+          "category": "일반",
+          "budget_2026": 133,
+          "change_amount": -4098,
+          "change_rate": -96.86
+        },
+        {
+          "project_name": "(14) 선박해양플랜트연구소 운영지원(R&D) (1110-302)",
+          "ministry": "해양수산부",
+          "category": "R&D",
+          "budget_2026": 28,
+          "change_amount": -1082,
+          "change_rate": -97.48
+        }
+      ]
+    }
+  ]
+}
