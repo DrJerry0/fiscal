@@ -1,0 +1,5249 @@
+[
+  {
+    "title": "(6) 전산운영경비(정보화) (1134-309) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 255.99
+  },
+  {
+    "title": "(10) 개인정보 안전활용 선도기술 개발(R&D) (1033-307) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -98.55
+  },
+  {
+    "title": "(9) 신뢰기반의 AI 개인정보 보호·활용 기술개발(R&D) (1033-305) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": 227.87
+  },
+  {
+    "title": "(6) 안전한 데이터 활용 지원 (1032-302) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": 231.13
+  },
+  {
+    "title": "112시스템운영(정보화) (1132-511) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -97.97
+  },
+  {
+    "title": "경찰정보화기반고도화(정보화) (4234-511) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4200,
+    "change_rate": 721.92
+  },
+  {
+    "title": "과학기술기반군중밀집관리기술개발(R&D) (4431-720) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 511.11
+  },
+  {
+    "title": "과학수사시스템구축(정보화) (1232-511) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1200,
+    "change_rate": 134.83
+  },
+  {
+    "title": "과학적범죄수사고도화기술개발(R&D) (4431-631) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 597.31
+  },
+  {
+    "title": "불법마약류대응을위한현장기술개발(R&D) (4431-718) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 512.81
+  },
+  {
+    "title": "사이버범죄수사단서통합분석및추론시스템개발(R&D) (4431-726) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 506.06
+  },
+  {
+    "title": "사이버수사지원기술개발(R&D) (4431-710) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 519.72
+  },
+  {
+    "title": "차세대지능형순찰플랫폼개발(R&D) (4431-724) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 507.73
+  },
+  {
+    "title": "치안데이터활용기술개발(R&D) (4431-730) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4400,
+    "change_rate": 502.74
+  },
+  {
+    "title": "형사･교통･여성청소년범죄 수사역량강화 (1231-313) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1200,
+    "change_rate": 283.39
+  },
+  {
+    "title": "(95) 고용노동행정(정보화)(7034-500) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 86,
+    "change_rate": -98.78
+  },
+  {
+    "title": "(12) 내일배움카드(고보)(1151-352) 정책 점검",
+    "ministry": "감사원",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": -4.43
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "대형사업 관리",
+    "due_status": "정상",
+    "budget_2026": 603198,
+    "change_rate": 29687.56
+  },
+  {
+    "title": "가. (23) 내일배움카드(일반)(1131-300) 정책 점검",
+    "ministry": "감사원",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": -2.74
+  },
+  {
+    "title": "(100) 노동위원회정보화운영(정보화)(7039-502) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 7000,
+    "change_rate": -0.55
+  },
+  {
+    "title": "(22) 디지털 기반의 고용서비스 인프라 지원(정보화)(1075-303) 정책 점검",
+    "ministry": "감사원",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": -6.98
+  },
+  {
+    "title": "(23) 미래환경변화대응 산업안전보건 연구개발(R&D)(4155-361) 정책 점검",
+    "ministry": "감사원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": -1.32
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "감사원",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 1554,
+    "change_rate": -23.26
+  },
+  {
+    "title": "(13) 사업주직업훈련지원금(1152-350) 정책 점검",
+    "ministry": "감사원",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": -4.51
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "감사원",
+    "domain": "제조/스마트팩토리",
+    "priority": "대형사업 관리",
+    "due_status": "정상",
+    "budget_2026": 368023,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(21) 일자리정보플랫폼 기반 AI 고용서비스 지원(정보화)(1075-302) 정책 점검",
+    "ministry": "감사원",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": -6.98
+  },
+  {
+    "title": "(30) 직업능력개발담당자양성 및 훈련매체개발(1136-300) 정책 점검",
+    "ministry": "감사원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": -3.17
+  },
+  {
+    "title": "가. (25) 직업능력개발심사평가(1133-300) 정책 점검",
+    "ministry": "감사원",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": -2.91
+  },
+  {
+    "title": "(41) 취약노동자지원(2031-303) 정책 점검",
+    "ministry": "감사원",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2000,
+    "change_rate": -1.53
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "감사원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(339) 4대 지역외 AX 대전환 기획(4231-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -96.86
+  },
+  {
+    "title": "(322) AGI 준비 프로젝트 (2602-365) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(324) AI AGENT 선도 국가 사업 (2602-367) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(66) AI+S&T 혁신 기술개발(R&D) (1159-445) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.63
+  },
+  {
+    "title": "(323) AI·공간컴퓨팅 창업 생태계 활성화 (2602-366) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(33) AI 기반 뇌발달질환 디지털의료기기 실증지원 (2601-405) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(108) AI 기반 민군 유·무인복합체계 주파수 공동사용 및 운용 기술 개발 (1632-311) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "국방/방산",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(295) AI 기반 주파수 간섭분석 및 전파 예측기술 개발(R&D) (2535-335) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 13,
+    "change_rate": -99.49
+  },
+  {
+    "title": "(326) AI반도체 실증지원 (2603-311) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "정보통신정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(333) AI반도체 지원플랫폼 (2603-324) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(219) AI 분야 오픈소스 생태계 조성 (2232-329) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(320) AI 융합 OTT 글로벌 확산 지원 (2602-358) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(3) AI·SW중심대학 (2232-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 630.9
+  },
+  {
+    "title": "(146) AI·블록체인 융합 기반 자율형 고신뢰 핵심기술 개발(R&D) (2033-400) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(172) AI-RAN 글로벌 선도 프로젝트(R&D) (2132-419) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(36) AIxBio 혁신 연구거점 조성 시범사업(R&D) (1138-502) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(145) AI기반 개방형 자율 디지털트윈 핵심기술개발 (2033-396) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(304) AI기반 맞춤형 케어서비스 융합선도(R&D) (2601-385) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(147) AI기반안전관리분야디지털트윈선도 (2033-404) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(53) AI기반 어장 공간정보 빅데이터 플랫폼 구축 및 활용(4231-308) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -97.23
+  },
+  {
+    "title": "(268) AI 기반 침해대응체계 구축(2332-323) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.3
+  },
+  {
+    "title": "(30) AI기반 가상융합산업육성 (2602-313) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(164) AI기반 개방형 5G-A 융합서비스 테스트베드 구축운영(R&D) (2132-374) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(80) AI기반디지털가상핵융합로플랫폼개발사업(R&D)(1160-455) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.64
+  },
+  {
+    "title": "(30) AI-네이티브 첨단바이오 자율실험실(R&D) (1138-486) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(330) AI반도체기반데이터센터고도화선도기술개발(R&D) (2603-318) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(331) AI반도체를활용한K-클라우드기술개발 (2603-320) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(19) AI반도체첨단이종집적기술개발(R&D) (2137-307) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(40) AI산업육성 (2602-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "소관부처 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "제조/스마트팩토리",
+    "priority": "대형사업 관리",
+    "due_status": "정상",
+    "budget_2026": 76664,
+    "change_rate": 3685.88
+  },
+  {
+    "title": "(266) AI생태계보안내재화핵심기술개발(R&D) (2332-320) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.3
+  },
+  {
+    "title": "(46) AI선박 특화 플랫폼 및 애플리케이션 개발·실증 (4231-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "해양/수산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -96.86
+  },
+  {
+    "title": "(306) AI연구용 컴퓨팅 지원 프로젝트(R&D) (2601-389) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(35) AI융합 지능형 농업 생태계 구축 (2601-408) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(181) AI 응용제품 신속 상용화 지원사업(보안‧네트워크‧생활 등) (2137-381) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(316) AI일상화 확산 (2602-338) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "AI기반 인공지능정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(222) AI정밀의료SW 선도기반조성 (2233-336) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(319) AI컴퓨팅자원활용기반강화 (2602-357) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "GPU서버확충 실·국·과(팀) 과 장 사무관 주무관 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(307) AI 클라우드 경쟁력강화 기술개발 (2601-392) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(42) AI통합바우처 (2602-336) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "고성능컴퓨팅 소관부처 인공지능인프라정책관 인공지능컴퓨팅인프라팀 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(336) AI혁신을 위한 데이터안전활용 지원 (2604-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(287) AI 활용 미인증 기자재 온라인 모니터링 시스템 구축 (2533-321) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 131,
+    "change_rate": -94.83
+  },
+  {
+    "title": "(179) AX혁신기업창의기술개발(R&D) (2137-375) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(38) AX실증밸리조성(R&D)(2601-413) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(168) ICT전략융합R&D바우처지원사업(신규) (2132-407) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(180) ICT기반디지털서비스탄소중립혁신기술개발 (2137-377) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(177) ICT융합 지능 디바이스 개발 활성화 및 확산 기반구축(R&D) (2137-363) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(274) K-AI 네트워크 경쟁력 강화(신규) (2433-406) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.53
+  },
+  {
+    "title": "(32) K-Health 국민의료 AI서비스 및 산업생태계 구축 (2601-403) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(327) PIM인공지능반도체 핵심기술개발(설계)(R&D) (2603-314) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(23) SW컴퓨팅산업원천기술개발(R&D) (2231-323) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "정보통신정책실 소프트웨어정책관 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(318) World Best LLM 데이터 활용 지원 (2602-356) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(311) 가상융합기반피지컬AI핵심기술개발(R&D) (2601-397) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(313) 가상융합지능화핵심기술개발(R&D) (2601-400) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(31) 강원 의료 AX 산업 실증 허브 조성 (2601-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -94.16
+  },
+  {
+    "title": "(329) 거대인공신경망인공지능반도체SW기술개발(R&D) (2603-317) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(123) 건전정보문화조성 (1945-504) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.23
+  },
+  {
+    "title": "건전정보 소관부처 정보통신정책실 정보통신정책관 디지털포용정책팀 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(308) 경량·저전력AI한계극복기술개발 (2601-393) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(220) 경쟁형 AI 혁신인재 성장 지원 (2232-331) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(273) 고성능 AI(Hyper-AI) 네트워크 기반조성 사업 (신규) (2433-305) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.53
+  },
+  {
+    "title": "(321) 공공AX 프로젝트 (2602-364) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(104) 공공행정서비스혁신기술개발(R&D) (1531-430) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -89.88
+  },
+  {
+    "title": "(1) 공존가능한 신뢰 AI를 위한 AI Safety 기술개발 (2601-390) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2600,
+    "change_rate": 566.67
+  },
+  {
+    "title": "(1) 과학기술혁신정책지원(R&D) (1031-401) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -62.09
+  },
+  {
+    "title": "(42) 광주 AI 실증도시 실현(기본계획 수립 용역비) (2601-417) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(187) 광주과학기술원 연구운영비 지원(R&D) (2231-405) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(40) 국가 AI데이터센터 고도화 (2601-415) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(43) 국가 NPU전용 컴퓨팅센터 광주 설립(설계비) (2601-418) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(337) 국가 데이터 인프라 기반 데이터 혁신(Data-X) 지원 (2604-311) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(61) 국가 플래그십 초고성능컴퓨팅 인프라 고도화(R&D) (1159-425) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.63
+  },
+  {
+    "title": "(224) 국가과학기술연구회 연구운영비 지원 (2241-401) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(195) 국가수리과학연구소 연구운영비 지원(R&D) (2231-416) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(137) 국가지식정보 연계 및 활용 촉진(정보화) (2033-338) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(301) 국방인공지능핵심기술개발(R&D) (2601-384) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(335) 국산 AI반도체 기반 마이크로데이터센터 확산(R&D) (2603-328) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "국산 AI 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(151) 국산 NPU 기반 AI CCTV 전환(2033-416) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(56) 글로벌제조융합SW개발및실증(R&D) (4234-324) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -97.24
+  },
+  {
+    "title": "(1) 나노·소재기술개발(R&D) (1139-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 13,
+    "change_rate": -95.68
+  },
+  {
+    "title": "(200) 대구경북과학기술원 시설 지원(R&D) (2231-425) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(184) 대구경북과학기술원 연구운영비 지원(R&D) (2231-402) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(24) 대학디지털교육역량강화 (2232-324) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(34) 데이터 활용 의료·건강 생태계 조성 (2601-407) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(39) 데이터 활용확산 정책지원 (2601-303) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(44) 데이터경제인프라구축 (2604-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "국가데이터 인공지능정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(31) 데이터기반산업경쟁력강화 (2604-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(155) 데이터센터 네트워크 인프라 기술 선도사업(R&D) (2132-423) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(191) 동남권원자력의학원 연구운영비 지원(R&D) (2231-412) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(41) 동대구벤처밸리 AI 테크포트 (2601-416) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(29) 디지털 AI세포 구축(1138-482) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(143) 디지털 질서 기반 구축 및 글로벌 확산 지원 (2033-371) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(301) 디지털 혁신 기술 기반 K-CareNetwork (2233-336) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(13) 디지털미디어이노베이션기술개발(R&D) (1131-520) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -94.61
+  },
+  {
+    "title": "(18) 디지털배움터(세종)(1945-304) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.23
+  },
+  {
+    "title": "(1) 디지털배움터(자율)(1945-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1900,
+    "change_rate": 529.14
+  },
+  {
+    "title": "(1) 디지털배움터(제주)(1945-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1900,
+    "change_rate": 529.14
+  },
+  {
+    "title": "(20) 디지털분야글로벌인재양성 (2137-308) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "정보통신정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 12000,
+    "change_rate": 492.59
+  },
+  {
+    "title": "(2) 디지털선도기술핵심인재양성(R&D) (2133-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2100,
+    "change_rate": 597.67
+  },
+  {
+    "title": "(1) 디지털역량강화교육(1945-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1900,
+    "change_rate": 531.23
+  },
+  {
+    "title": "(25) 디지털전문·융합인재양성 (2232-325) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "정보통신정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(23) 디지털트윈 융합 의료혁신 선도사업 (2033-304) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(28) 디지털헬스케어기반 AI 융합혁신 허브 조성 (2232-305) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(160) 디지털혁신기술국제공동연구(R&D)(2132-353) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(26) 미래 디지털인재양성 및 저변확대 (2232-326) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(68) 민관협력 기반 AI 휴머노이드 원천기술 고도화(R&D) (1159-447) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.63
+  },
+  {
+    "title": "(18) 바이오·의료기술개발(R&D) (1138-401) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(44) 반도체원천기술개발사업(R&D) (1139-453) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.39
+  },
+  {
+    "title": "(122) 범정부 인공지능 공통기반 구현(정보화) (1943-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.23
+  },
+  {
+    "title": "(161) 복합지능 자율행동체 SW 핵심기술개발(R&D) (2132-364) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(105) 불법 마약류 대응을 위한 현장기술 개발(R&D) (1531-432) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -89.88
+  },
+  {
+    "title": "(292) 빅데이터 기반 생활전자파 예측 기술개발(R&D) (2535-318) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 13,
+    "change_rate": -99.49
+  },
+  {
+    "title": "(297) 사람중심인공지능핵심원천기술개발 (2601-312) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(216) 생성AI선도인재양성(2232-314) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(31) 생체노화 리프로그래밍 원천기술 개발 (1138-488) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(242) 세계김치연구소 연구운영비 지원 (2241-432) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(27) 소프트웨어인재키움 (2232-304) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(156) 스마트 엣지 디바이스 기술개발(R&D) (2132-327) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(52) 스마트물류 기술 실증화 (4231-307) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -97.23
+  },
+  {
+    "title": "(20) 스마트빌리지 보급 및 확산(세종) (2033-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(19) 스마트빌리지 보급 및 확산(자율) (2033-300) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(52) 스마트팜다부처패키지혁신기술개발(R&D) (1158-428) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.61
+  },
+  {
+    "title": "(270) 신종 보이스피싱 조기탐지 기술개발(R&D) (2431-323) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 131,
+    "change_rate": -94.61
+  },
+  {
+    "title": "(309) 실세계 능동행동형 에이전틱AI 기술개발 (2601-394) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(25) 연합학습기반 신약개발 가속화 프로젝트(K-MELLODDY)(R&D)(1138-459) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(176) 오픈랜실증단지조성 (2137-362) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(147) 온디바이스AI기반자율협업IoT및디바이스핵심기술개발(R&D) (2033-412) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(25) 우편물류기술연구개발(R&D) (5141-401) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 132,
+    "change_rate": -97.43
+  },
+  {
+    "title": "(185) 울산과학기술원 연구운영비 지원(R&D) (2231-403) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 52,
+    "change_rate": -97.67
+  },
+  {
+    "title": "(174) 융합서비스 글로벌시장 진출지원 (2137-310) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "정보통신정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(25) 의료 AI반도체 전문인력 양성센터 구축 (2137-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.78
+  },
+  {
+    "title": "(315) 의료AI혁신생태계조성(닥터앤서3.0) (2602-337) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(46) 인간-AI 협업형 LAM 개발·글로벌 실증(R&D) (4231-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -96.34
+  },
+  {
+    "title": "(310) 인간인지기반AI핵심원천기술개발 (2601-395) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(305) 인간지향적차세대도전형AI기술개발 (2601-388) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(47) 인공지능 신뢰성 혁신 실증사업 (4231-301) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -96.86
+  },
+  {
+    "title": "(328) 인공지능반도체SW통합플랫폼기술개발(R&D) (2603-316) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(215) 인공지능융합혁신인재양성(2232-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(299) 인공지능첨단원천유망기술개발(R&D) (2601-347) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(136) 자율주행기술개발혁신사업(R&D) (2033-306) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(167) 자율행동체 온디바이스 응용 지원 핵심기술개발(R&D)(2132-399) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(106) 재난안전혁신기술개발사업(R&D) (1532-411) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -89.88
+  },
+  {
+    "title": "(280) 저궤도 군집 위성통신용 지능형 지상국 핵심기술 개발(R&D) (2531-340) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 131,
+    "change_rate": -94.82
+  },
+  {
+    "title": "(11) 전국민 AI활용서비스 개발환경 조성 (2033-504) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2033,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(32) 정보보호핵심원천기술개발(R&D) (2331-304) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.29
+  },
+  {
+    "title": "(120) 정보통신 기반보호 강화 (정보화 1935-500) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.22
+  },
+  {
+    "title": "주요정보통신 정보보호네트워크정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(17) 정보통신방송혁신인재양성 (2133-304) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "소프트웨어정책과 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "제조/스마트팩토리",
+    "priority": "대형사업 관리",
+    "due_status": "정상",
+    "budget_2026": 130400,
+    "change_rate": 6339.51
+  },
+  {
+    "title": "(36) 제조업 AI융합 기반 조성 (2601-409) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(141) 지능형 홈 산업 육성 (2033-378) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(41) 지속가능한 데이터센터 산업 발전 지원 (2602-333) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(54) 지역거점AX혁신 기술개발(R&D)(4231-426) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -96.34
+  },
+  {
+    "title": "(26) 지역디지털인재양성 (2232-303) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "정보통신정책실 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(43) 지역특화 AI 공간컴퓨팅 육성 (2602-337) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(67) 차세대 AI+S&T 기반 기술개발(R&D) (1159-446) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "AI인프라/컴퓨팅",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.63
+  },
+  {
+    "title": "(173) 차세대 네트워크 AI파운데이션 모델(NFM) 개발(R&D) (2132-421) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(142) 차세대 네트워크 선도 연구시험망 구축운영(R&D) (2033-363) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.46
+  },
+  {
+    "title": "(284) 차세대 특화망 융합산업 활성화 기반구축 (2531-359) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 131,
+    "change_rate": -94.82
+  },
+  {
+    "title": "(163) 차세대 네트워크(6G) 산업 기술개발(R&D) (2132-371) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.76
+  },
+  {
+    "title": "(302) 차세대생성AI기술개발 (2601-378) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(325) 차세대지능형반도체기술개발(설계)(R&D) (2603-305) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(34) 첨단신약 타겟 발굴 검증 및 기반기술 개발(R&D) (1138-499) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(37) 초거대 AI 클라우드 팜 실증 및 AI 확산 환경 조성 (2601-410) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(298) 초거대산업AI연구지원 (2601-317) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(135) 초고층 복합시설 복합재난관리 디지털플랫폼 기술개발 (2031-304) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -93.45
+  },
+  {
+    "title": "(218) 최고급 AI해외인재 유치지원(2232-327) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.04
+  },
+  {
+    "title": "(35) 치매의료기술연구개발사업(R&D) (1138-500) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -86.38
+  },
+  {
+    "title": "(332) 칩렛기반저전력온디바이스AI반도체기술개발 (2603-322) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(312) 컴퓨팅자원 집중형 인공지능 응용 기술개발(R&D) (2601-398) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(32) 클라우드컴퓨팅산업육성(정보화) (2602-311) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(314) 피지컬AI선도기술개발(R&D) (2601-403) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "( ) 한국건설기술연구원 연구운영비 지원(R&D) (2241-429) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 412.82
+  },
+  {
+    "title": "(226) 한국과학기술연구원 연구운영비 지원(R&D) (2241-404) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(183) 한국과학기술원 연구운영비 지원(R&D) (2231-401) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(230) 한국과학기술정보연구원 연구 운영비 지원(R&D) (2241-411) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(237) 한국기계연구원 연구운영비 지원(R&D)(2241-426) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(227) 한국기초과학지원연구원 연구운영비 지원 (2241-405) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(194) 한국뇌연구원 연구운영비 지원 (2231-415) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.19
+  },
+  {
+    "title": "(334) 한국산업은행 출자(AI컴퓨팅 인프라 확충) (2603-325) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.89
+  },
+  {
+    "title": "(228) 한국생명공학연구원 연구운영비지원(R&D) (2241-408) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(233) 한국생산기술연구원 연구운영비 지원(R&D) (2241-422) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(236) 한국식품연구원 연구운영비 지원(R&D) (2241-425） 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(4) 한국에너지기술연구원 연구운영비 지원(R&D) (2241-404) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 444.55
+  },
+  {
+    "title": "(1) 한국원자력연구원 연구운영비 지원(R&D) (2241-401) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 448.63
+  },
+  {
+    "title": "(11) 한국재료연구원 연구운영비 지원 (2241-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(234) 한국전자통신연구원 연구운영비 지원(R&D) (2241-423) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(2) 한국지질자원연구원 연구운영비 지원(R&D) (2241-402) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 447.26
+  },
+  {
+    "title": "(241) 한국철도기술연구원 연구운영비 지원(R&D) (2241-430) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(231) 한국표준과학연구원 연구운영비 지원(R&D) (2241-412) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(225) 한국핵융합에너지연구원 연구 운영비지원(R&D) (2241-402) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(238) 한국화학연구원 연구운영비 지원(R&D) (2241-427) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -93.22
+  },
+  {
+    "title": "(48) 해양문화도시 기반의 에이지테크 실증거점 조성(4231-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -96.86
+  },
+  {
+    "title": "(262) 해킹바이러스 대응체계 고도화 (2332-302) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 133,
+    "change_rate": -94.3
+  },
+  {
+    "title": "(49) 협업지능 피지컬AI 기반 SW플랫폼 연구개발 생태계 조성(R&D) 정책 점검",
+    "ministry": "과학기술정보통신부",
+    "domain": "데이터/플랫폼",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -96.34
+  },
+  {
+    "title": "관세행정 정보관리(정보화)(1441-500) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1440,
+    "change_rate": 188.0
+  },
+  {
+    "title": "(17) 4단계 두뇌한국21 사업 (2303-300) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 50,
+    "change_rate": 138.1
+  },
+  {
+    "title": "(35) AI 디지털유니버시티 혁신교육 플랫폼 구축(정보화) (2704-503) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 52,
+    "change_rate": -98.08
+  },
+  {
+    "title": "(53) 가상실험실습 학습콘텐츠 공유 플랫폼 구축(정보화) (4134-500) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 53,
+    "change_rate": -98.72
+  },
+  {
+    "title": "(41) 국립대학육성사업 (2704-301) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 52,
+    "change_rate": -98.08
+  },
+  {
+    "title": "(3) 대학생 AI 기본 교육 지원 (2232-323) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 581.11
+  },
+  {
+    "title": "(9) 대학정보공시 제도 운영(정보화) (2268-300) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 633.33
+  },
+  {
+    "title": "(4) 산학연협력 고도화 지원 (2256-300) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 633.33
+  },
+  {
+    "title": "첨단산업 소관부처 인공지능융합인재양성과 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(6) 소프트웨어인재양성기반구축 (1031-313) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": 219.49
+  },
+  {
+    "title": "(58) 학생교육교류지원 (4531-301) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 53,
+    "change_rate": -98.83
+  },
+  {
+    "title": "(35) 한국장학재단 출연 (2638-300) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 52,
+    "change_rate": -98.03
+  },
+  {
+    "title": "(52) 한국형 온라인 공개강좌 콘텐츠 개발 및 활용 활성화 (4134-303) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 53,
+    "change_rate": -98.72
+  },
+  {
+    "title": "(7) 통계DB통합 및 포털서비스(정보화) (2031-302) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2000,
+    "change_rate": 562.25
+  },
+  {
+    "title": "(3) 통계교육지원 (1032-304) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": 228.95
+  },
+  {
+    "title": "(13) 통계데이터 분석 및 활용지원(정보화) (2032-308) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 16,
+    "change_rate": -99.21
+  },
+  {
+    "title": "국가데이터기획협력관 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(4) 통계센터 및 교육시설 운영 (1032-305) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1000,
+    "change_rate": 227.87
+  },
+  {
+    "title": "(39) 통계연구개발지원 (4031-311) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 16,
+    "change_rate": -99.6
+  },
+  {
+    "title": "(5) 국가유산 지능형 첨단보존 기술개발(R&D) (1131-318) 정책 점검",
+    "ministry": "관세청",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 245.91
+  },
+  {
+    "title": "(6) 국민소통시스템 구축 및 운영(정보화)(1132-321) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 242.68
+  },
+  {
+    "title": "(74) AI응용제품 신속 상용화 지원사업 (국방) (2341-500) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.21
+  },
+  {
+    "title": "(79) 국내외 전문군사교육 (2432-304) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.27
+  },
+  {
+    "title": "(23) 국방ICT혁신기술 (2131-310) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.03
+  },
+  {
+    "title": "(73) 민군기술협력R&D (2341-400) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.21
+  },
+  {
+    "title": "실·국·과(팀) 과 장 사무관 주무관 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(89) 전투발전연구 (2438-304) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.28
+  },
+  {
+    "title": "(18) 정보체계개발유지 (2131-302) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.03
+  },
+  {
+    "title": "(17) 정보통신기반체계 구축 (2131-301) 정책 점검",
+    "ministry": "관세청",
+    "domain": "국방/방산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 42,
+    "change_rate": -98.03
+  },
+  {
+    "title": "(66) 국세정보분석시스템 운영(정보화) (7133-502) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 14,
+    "change_rate": -99.8
+  },
+  {
+    "title": "(64) 국세행정지원시스템 운영(정보화) (7133-500) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 14,
+    "change_rate": -99.8
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "관세청",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(65) 엔티스 전산시스템 운영(정보화) (7133-501) 정책 점검",
+    "ministry": "관세청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 14,
+    "change_rate": -99.8
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "관세청",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(55) AI-XR기반 비행장원격관제 운용기술개발(R&D) (4161-337) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(74) AI 데이터중심의 화물차운송안전향상 기술개발(R&D) (4162-304) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(1) AI 모빌리티 시범도시 조성 (4633-320) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4600,
+    "change_rate": 1337.5
+  },
+  {
+    "title": "(1) AI응용제품 신속상용화 지원사업(국토·교통) (7036-310) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 7000,
+    "change_rate": 2158.06
+  },
+  {
+    "title": "(53) AI진단기반 항공기로봇검사 및 정비기술개발(R&D) (4161-328) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(67) 건물에너지 소비데이터 통합관리기반 구축(R&D) (4156-345) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(3) 건설전주기 안전혁신기술 개발사업(R&D) (4154-356) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1051.69
+  },
+  {
+    "title": "(3) 건설전주기 안전혁신기술 개발사업(R&D) (4154-356) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1051.69
+  },
+  {
+    "title": "(9) 건설산업정보시스템 구축 및 운영(정보화) (4246-518) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4200,
+    "change_rate": 710.81
+  },
+  {
+    "title": "(8) 건축정보시스템 구축 및 운영(정보화) (4244-516) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 120,
+    "change_rate": -76.74
+  },
+  {
+    "title": "(62) 공간지식추론 엔진기술개발(R&D) (4156-321) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(7) 공동주택건설 생산성 혁신을 위한 다용도-건설작업 로봇설계 및 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 990.43
+  },
+  {
+    "title": "(21) 공항조류탐지 및 한국형 조류관리 핵심기술개발(R&D) (4161-358) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(22) 과적단속 효율화를 위한 화물차중량정보 플랫폼 구축 및 실증기술개발 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(63) 광역단위 노후건축물 디지털 안전워치 기술개발(R&D) (4156-324) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(57) 교통사고유발도로 노면위험요소 저감 기술개발(R&D) (4162-310) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(25) 국토교통 DNA플러스 융합기술대학원 육성사업(R&D) (4141-306) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.96
+  },
+  {
+    "title": "(14) 국토이용정보체계 구축 및 운영(정보화) (4254-526) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -97.04
+  },
+  {
+    "title": "(23) 국토지형관리(정보화) (5831-501) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 142,
+    "change_rate": -97.56
+  },
+  {
+    "title": "(46) 대심도장대터널(GTX등)의 재난대응복합 훈련장개발(R&D) (4159-337) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(49) 데이터기반철도시스템 안전평가·예측기술개발(R&D) (4159-349) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(64) 디지털기반 건축시공 및 안전감리 기술개발(R&D) (4156-326) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(23) 디지털도로기반 클라우드형 AI-ITS센터플랫폼 운영관리 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(6) 디지털트윈 국토정보보안 기술개발(R&D) (4156-371) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1005.12
+  },
+  {
+    "title": "(13) 디지털트윈기반 GTX환승안전 및 혁신기술 개발사업(R&D) (4158-331) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(2) 무안공항 차세대 전력망 구축 (3532-327) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 970.34
+  },
+  {
+    "title": "(65) 빅데이터기반 인공지능도시계획 기술개발(R&D) (4156-327) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(19) 빅데이터기반 철도 네트워크 설계 및 운영기술개발(R&D) (4159-368) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(32) 스마트+빌딩핵심기술개발(R&D) (4154-333) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(70) 스마트시티인프라 AIoT 핵심기술개발(R&D) (4160-303) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(6) 스마트시티확산사업 (5637-308) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 5600,
+    "change_rate": 1718.18
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(16) 스마트철도물류 혁신기술개발(R&D) (4159-339) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(10) 운전자 페달 오조작방지 및 평가기술개발(R&D) (4158-324) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(5) 자율자동차상용화 (4633-319) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4600,
+    "change_rate": 1342.01
+  },
+  {
+    "title": "실·국·과(팀) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(11) 자율주행 글로벌 혁신클러스터 연구개발사업(R&D) (4158-325) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(2) 지역단위 재난위험도 AI시뮬레이션기반 재난안전관리 기술개발(R&D) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1142.42
+  },
+  {
+    "title": "(14) 지역특화형 자율주행서비스모델 및 실증기술개발(R&D) (4158-333) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(17) 철도차량차륜 자동검사시스템 기술개발(R&D) (4159-344) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.97
+  },
+  {
+    "title": "(9) 철도치안관리(2731-341) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 120,
+    "change_rate": -64.81
+  },
+  {
+    "title": "(8) 초고층복합시설 복합재난관리 디지털 플랫폼 기술개발(R&D) (4156-379) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 981.79
+  },
+  {
+    "title": "(5) 초연결지능도시 핵심기반 기술개발(R&D) (4156-364) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1026.37
+  },
+  {
+    "title": "(4) FIU 전산망 구축·운영(정보화)(1332–501) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1300,
+    "change_rate": 159.48
+  },
+  {
+    "title": "(13) 국민성장펀드 (2414-326) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 14,
+    "change_rate": -99.42
+  },
+  {
+    "title": "(12) 신용정보(정보화) (2431-315) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 111,
+    "change_rate": -95.43
+  },
+  {
+    "title": "기상업무지원기술개발연구(R&D) (4133-301) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1262.13
+  },
+  {
+    "title": "기후위기 대응 국가기후예측시스템 개발(R&D) (3133-318) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 874.84
+  },
+  {
+    "title": "선진예보시스템 구축 및 운영(정보화) (1140-501) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 119.56
+  },
+  {
+    "title": "(4) 디지털예산회계시스템 운영(정보화) (2713–500) 정책 점검",
+    "ministry": "국토교통부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2700,
+    "change_rate": 440.0
+  },
+  {
+    "title": "가. (23) AI 기반 분산전력망 산업 육성(5203-333) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 115,
+    "change_rate": -97.79
+  },
+  {
+    "title": "에너지전환정책실 전력망전책관 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "대형사업 관리",
+    "due_status": "정상",
+    "budget_2026": 217116,
+    "change_rate": 10621.78
+  },
+  {
+    "title": "가. (51) AI기반무탄소에너지활용화학기술개발(R&D)(6431-336) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -97.59
+  },
+  {
+    "title": "AI기반무탄소 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "신규사업 성과체계 필요",
+    "due_status": "정상",
+    "budget_2026": 3400,
+    "change_rate": 67.9
+  },
+  {
+    "title": "가. (8) AI 기반 분산·예비전력 안전관리 통합 플랫폼 개발 및 실증(R&D)(5144-327) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 5100,
+    "change_rate": 1459.63
+  },
+  {
+    "title": "AI 기반 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4164,
+    "change_rate": 105.63
+  },
+  {
+    "title": "(144) AI응용제품 신속 상용화 지원사업(환경) (1933-320) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 76,
+    "change_rate": -96.07
+  },
+  {
+    "title": "가. (1) K-그리드 인재·창업 밸리 조성(5139-301) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 5100,
+    "change_rate": 1594.35
+  },
+  {
+    "title": "K-그리드 기후에너지 에너지전환정책실 전력망전책관 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "신규사업 성과체계 필요",
+    "due_status": "정상",
+    "budget_2026": 24500,
+    "change_rate": 1109.88
+  },
+  {
+    "title": "(4) 광역상수도 안정화(5033-303) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 140,
+    "change_rate": -53.8
+  },
+  {
+    "title": "(29) 국가하천유지보수(5331-308) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 141,
+    "change_rate": -97.36
+  },
+  {
+    "title": "(130) 국립생태원 출연(1833-332) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1800,
+    "change_rate": -1.8
+  },
+  {
+    "title": "가. (101) 극한지스마트광역탐사를위한로봇-ICT융합기술개발(R&D)(6431-747) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -98.04
+  },
+  {
+    "title": "극한지스마트광 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "신규사업 성과체계 필요",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 72.84
+  },
+  {
+    "title": "(36) 기후변화 적응 수재해 관리 기술개발사업(R&D) (2038-348) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 77,
+    "change_rate": -96.22
+  },
+  {
+    "title": "(127) 기후변화 적응을 위한 생태계 복원 및 관리 기술개발사업(1832-353) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1800,
+    "change_rate": -1.75
+  },
+  {
+    "title": "(84) 대기오염측정망 구축·운영(1634-302) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 79,
+    "change_rate": -95.17
+  },
+  {
+    "title": "가. (95) 데이터센터탄소중립을위한열관리기술개발(R&D)(6431-587) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -98.18
+  },
+  {
+    "title": "(35) 디지털 담수화 플랜트 농축수 자원화 기술개발사업(2038-347) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 77,
+    "change_rate": -96.22
+  },
+  {
+    "title": "가. (43) 무탄소에너지핵심기술개발사업(R&D)(6431-315) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -97.59
+  },
+  {
+    "title": "연구개발정책실 미래전략기술정책관 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "대형사업 관리",
+    "due_status": "정상",
+    "budget_2026": 59182,
+    "change_rate": 2822.57
+  },
+  {
+    "title": "(8) 물산업정책 및 국제협력(5131-303) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 5100,
+    "change_rate": 1583.17
+  },
+  {
+    "title": "(20) 미래변화 대응 수자원 안정성 확보 기술개발사업(R&D)(5154-303) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -97.56
+  },
+  {
+    "title": "(104) 블록체인 기반 살생물제 정보 지능형 공정관리 기술개발사업(R&D)(2310-316) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 79,
+    "change_rate": -96.58
+  },
+  {
+    "title": "(74) 사업장 미세먼지 관리사업(1633-301) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 79,
+    "change_rate": -95.16
+  },
+  {
+    "title": "(26) 상수도정보화시스템 구축(정보화)(2031-332) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 77,
+    "change_rate": -96.21
+  },
+  {
+    "title": "(139) 생물다양성 보전 및 관리(1844-306) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 70,
+    "change_rate": -96.2
+  },
+  {
+    "title": "생물다양성 기후에너지 국립생물자원관 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "가. (92) 세라믹분야 스마트그린 제조혁신 지원사업(R&D)(6431-582) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -98.18
+  },
+  {
+    "title": "세라믹분야 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 1233,
+    "change_rate": -39.11
+  },
+  {
+    "title": "(16) 수문조사시설 설치 및 개선(5134-302) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.53
+  },
+  {
+    "title": "가. (124) 수열에너지 활용기술 및 에너지 믹스 기술개발(R&D)(6431-795) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 79,
+    "change_rate": -98.77
+  },
+  {
+    "title": "수열에너지 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2500,
+    "change_rate": 23.46
+  },
+  {
+    "title": "(33) 수용가 전기설비 원격점검 및 디지털 안전기술개발(R&D)(5701-344) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 115,
+    "change_rate": -97.98
+  },
+  {
+    "title": "(32) 장거리 고압수소 배관망 고안전성 확보 및 AI기반 안전관리 기술개발 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 115,
+    "change_rate": -97.98
+  },
+  {
+    "title": "(44) 전력망물리기반AI모델개발및실증(R&D)(5201-322) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.54
+  },
+  {
+    "title": "가. (103) 차세대 해양·극지의 환경 및 생태계에 관한 기후예측시스템 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -98.04
+  },
+  {
+    "title": "차세대 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "신규사업 성과체계 필요",
+    "due_status": "정상",
+    "budget_2026": 4500,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(50) 폐의류 문제해결 플래그십 재활용 기술개발사업(1532-323) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 78,
+    "change_rate": -94.91
+  },
+  {
+    "title": "(93) 환경보건 빅데이터 구축 및 AI 활용 고도화 기술개발(R&D)(2204-318) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 79,
+    "change_rate": -96.42
+  },
+  {
+    "title": "(230) 환경정보 융합빅데이터 플랫폼 구축(정보화)(7132-507) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 76,
+    "change_rate": -98.93
+  },
+  {
+    "title": "(228) 환경정보화기반구축(정보화)(7132-502) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 76,
+    "change_rate": -98.93
+  },
+  {
+    "title": "(227) 환경행정정보서비스 구축(정보화)(7132-501) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 73,
+    "change_rate": -98.98
+  },
+  {
+    "title": "(12) AI 응용제품 신속 상용화 지원사업(농업) (2220-301) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -95.45
+  },
+  {
+    "title": "(108) AX기반지능형농작업협업산업화기술개발(R&D) (2280-540) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -95.57
+  },
+  {
+    "title": "(103) K-수직농장세계화프로젝트(R&D) (2280-523) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -95.57
+  },
+  {
+    "title": "(15) 검역본부정보화(정보화) (6231-300) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -98.38
+  },
+  {
+    "title": "(124) 고부가가치식품기술개발(R&D) (2810-420) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 104,
+    "change_rate": -96.3
+  },
+  {
+    "title": "(7) 국가농업AX플랫폼 (2220-300) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2200,
+    "change_rate": 633.33
+  },
+  {
+    "title": "(25) 농업농촌국민체감AX전환기술개발(R&D) (2280-300) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -95.57
+  },
+  {
+    "title": "(113) 반려동물난치성질환극복기술개발(R&D) (2280-546) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -95.57
+  },
+  {
+    "title": "(94) 스마트팜다부처패키지혁신기술개발(R&D) (2280-481) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -95.57
+  },
+  {
+    "title": "(29) AI기반작물모니터링및진단플랫폼개발(R&D) (1136-383) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.11
+  },
+  {
+    "title": "(57) 국경 이동성 해충의 국제 발생 예측 및 방제기술 개발(R&D) (1133-435) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.09
+  },
+  {
+    "title": "(8) 농업기술정보화(정보화) (2333-500) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2300,
+    "change_rate": 360.0
+  },
+  {
+    "title": "(40) 농작업안전관리기술및웨어러블편이장비개발(R&D) (1147-347) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.19
+  },
+  {
+    "title": "(36) 데이터기반농업관측을위한위성영상활용기술개발(R&D) (1147-342) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.19
+  },
+  {
+    "title": "(35) 스마트팜다부처패키지혁신기술개발(R&D) (1147-330) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.19
+  },
+  {
+    "title": "(37) 지능형농업로봇핵심기반기술개발(R&D) (1147-343) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.19
+  },
+  {
+    "title": "(39) 특용작물유래천연활성바이오소재생산및활용기술개발(R&D) (1147-345) 정책 점검",
+    "ministry": "기후에너지환경부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 101,
+    "change_rate": -91.19
+  },
+  {
+    "title": "(5) 등기업무전산화(1334-305) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 20,
+    "change_rate": -93.44
+  },
+  {
+    "title": "(16) 사법업무전산화(1331-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 20,
+    "change_rate": -98.5
+  },
+  {
+    "title": "(100) 4차산업혁명대비 국어빅데이터 구축(2931-309) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -97.92
+  },
+  {
+    "title": "(6) AI 기반 관광 혁신 기술개발(R&D) (4264-606) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4200,
+    "change_rate": 593.07
+  },
+  {
+    "title": "(21) 개인운동기록 활용 기술 개발(R&D) (5362-618) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 63,
+    "change_rate": -98.83
+  },
+  {
+    "title": "(50) 국학진흥 정책기반 조성 (1533-301) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -96.02
+  },
+  {
+    "title": "(26) 문화공간 AX 전환을 위한 차세대 Culture Tech 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.06
+  },
+  {
+    "title": "(25) 문화기술 전문인력양성사업(R&D) (1234-632) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.06
+  },
+  {
+    "title": "(27) 문화예술 온톨로지 기반 LLM연계 기술개발(R&D)(1234-639) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.06
+  },
+  {
+    "title": "(13) 신기술 융합콘텐츠산업 육성 (1232-303) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.05
+  },
+  {
+    "title": "(24) 인공지능 기반 공연예술 안전환경 구축 핵심기술개발(R&D) (1234-628) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.06
+  },
+  {
+    "title": "(34) 저작권 및 AI 산업 상생협력 지원 (1333-302) 정책 점검",
+    "ministry": "대법원",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.42
+  },
+  {
+    "title": "(30) 저작권 보호활동 활성화 (1331-303) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 61,
+    "change_rate": -95.42
+  },
+  {
+    "title": "(220) 한국문화정보원 운영(정보화) (7133-500) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 65,
+    "change_rate": -99.09
+  },
+  {
+    "title": "기획조정실 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(3) 디지털미디어이노베이션기술개발(R&D) (1131-520) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 111.54
+  },
+  {
+    "title": "(1) 방송콘텐츠 진흥 (1131-301) 정책 점검",
+    "ministry": "대법원",
+    "domain": "교육/문화/콘텐츠",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 265.45
+  },
+  {
+    "title": "AI·디지털 기반 소관부처 방송미디어진흥국 디지털방송미디어정책과 정책 점검",
+    "ministry": "대법원",
+    "domain": "국방/방산",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(42) 안전한 AI 활용 기반조성 (3251-321) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 131,
+    "change_rate": -95.97
+  },
+  {
+    "title": "(37) 지능정보사회 이용자 보호 환경조성 (3251-308) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 131,
+    "change_rate": -95.97
+  },
+  {
+    "title": "방송통신이용자정책국 정책 점검",
+    "ministry": "대법원",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(6-10) 국방AI선도연구협력(R&D) (2631-407) 정책 점검",
+    "ministry": "대법원",
+    "domain": "국방/방산",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "검찰업무정보화(정보화) (1334-500) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1300,
+    "change_rate": 160.0
+  },
+  {
+    "title": "법률구조 (1131-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 266.67
+  },
+  {
+    "title": "법률구조기구 정책 점검",
+    "ministry": "대법원",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "법무행정정보화(정보화) (7034-500) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 7000,
+    "change_rate": 1300.0
+  },
+  {
+    "title": "재범징후의 선제적 감지 및 대응력 강화(R&D) (1631-305) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1600,
+    "change_rate": 424.59
+  },
+  {
+    "title": "첨단범죄 및 디지털수사(정보화) (1334-501) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 20,
+    "change_rate": -96.01
+  },
+  {
+    "title": "(10) 법제업무정보화추진(정보화) (1033-500) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 16,
+    "change_rate": -98.45
+  },
+  {
+    "title": "병무행정정보화 (7138-501) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 7100,
+    "change_rate": 1317.17
+  },
+  {
+    "title": "(250) AI 모델을 활용한 항체 바이오베터 개발 및 실증(R&D) (3031-625) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(242) AI기반 수술로봇 이노베이션랩 구축 및 활용사업(R&D) (3031-605) 정책 점검",
+    "ministry": "대법원",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(260) AI응용제품 신속 상용화 지원(보건) (3033-513) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(74) AI응용제품 신속 상용화 지원(복지) (2631-340) 정책 점검",
+    "ministry": "대법원",
+    "domain": "기타",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.13
+  },
+  {
+    "title": "(249) K-AI 신약개발 전임상·임상 모델개발(R&D) (3031-624) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(244) 구조기반 AI신약개발지원(R&D) (3031-618) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(211) 국가 통합 바이오 빅데이터 구축(R&D) (3031-520) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(227) 다기관-멀티모달 연합학습 기반 의료인공지능 기술 시범모델 개발(R&D) (3031-575) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(271) 바이오헬스산업 육성 지원 (3039-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "보건산업정책국 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(293) 발달장애디지털치료제개발(R&D) (3345-333) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 91,
+    "change_rate": -97.28
+  },
+  {
+    "title": "(228) 보건의료데이터 상호운용성 지원 기술개발(R&D) (3031-578) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(83) 사회보장정보시스템 구축 및 운영(정보화) (2640-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.13
+  },
+  {
+    "title": "(219) 응급실 특화 AI기반 임상지원시스템 개발(R&D) (3031-545) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(236) 의료 인공지능 특화 융합인재 양성 사업(R&D) (3031-592) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(273) 의료데이터 중심병원 지원사업 (3039-311) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(38) 지역거점 AX혁신 기술개발사업(R&D) (3031-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 90,
+    "change_rate": -97.03
+  },
+  {
+    "title": "(248) 치매의료기술연구개발사업(R&D) (3031-623) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(233) 치매전주기 데이터 수집 및 빅데이터 통합시스템 구축사업(R&D) (3031-588) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.24
+  },
+  {
+    "title": "(16) 한국형 수술질향상 프로젝트(K-NSQIP)(R&D) (3040-309) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 91,
+    "change_rate": -97.01
+  },
+  {
+    "title": "(279) 한의약산업육성 (3234-302) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 23,
+    "change_rate": -99.29
+  },
+  {
+    "title": "소관부처 보건의료정책실 한의약정책관 한의약산업과 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "AI 기반 임도 설계 및 유지관리 최적화 기술개발(R&D) (1544-328) 정책 점검",
+    "ministry": "대법원",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 357.32
+  },
+  {
+    "title": "고성능 목재수확 기계장비 개발(R&D) (1541-309) 정책 점검",
+    "ministry": "대법원",
+    "domain": "농림/식품",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 385.44
+  },
+  {
+    "title": "대형산불 대응 지능형 솔루션 기술개발(R&D) (1544-327) 정책 점검",
+    "ministry": "대법원",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 358.72
+  },
+  {
+    "title": "디지털 기반 산림 우수종자 생산공급 기술개발(R&D) (1541-310) 정책 점검",
+    "ministry": "대법원",
+    "domain": "농림/식품",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 383.87
+  },
+  {
+    "title": "산림과학연구(R&D) (1251-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "농림/식품",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1200,
+    "change_rate": 300.0
+  },
+  {
+    "title": "산림분야 그린바이오 미래형 가치사슬 기술개발(R&D) (1544-321) 정책 점검",
+    "ministry": "대법원",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 367.29
+  },
+  {
+    "title": "산불방지대책 (2332-300) 정책 점검",
+    "ministry": "대법원",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2300,
+    "change_rate": 666.67
+  },
+  {
+    "title": "산사태 현장대응 기술개발(R&D) (1544-316) 정책 점검",
+    "ministry": "대법원",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 374.68
+  },
+  {
+    "title": "스마트 산림재해 대응(정보화) (7035-507) 정책 점검",
+    "ministry": "대법원",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 7000,
+    "change_rate": 1280.67
+  },
+  {
+    "title": "임업현장 맞춤형 푸드테크 기술개발(R&D) (1541-311) 정책 점검",
+    "ministry": "대법원",
+    "domain": "농림/식품",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1500,
+    "change_rate": 382.32
+  },
+  {
+    "title": "(238) AI기반표적맞춤형의약품제조자율랩기술개발사업 (3651-321) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.8
+  },
+  {
+    "title": "(1) AI응용제품신속상용화지원사업 (3174-421) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 636.34
+  },
+  {
+    "title": "(192) AI자율제조SDM플랫폼기술개발(R&D) (3541-414) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.7
+  },
+  {
+    "title": "(1) AX실증밸리조성(R&D) (3541-301) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 110,
+    "change_rate": -63.46
+  },
+  {
+    "title": "(160) K-온디바이스AI반도체기술개발(R&D) (3561-324) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.71
+  },
+  {
+    "title": "(192) K-치안수요기반피지컬AI조명핵심기술개발및실증(R&D) (3561-433) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.71
+  },
+  {
+    "title": "(1) No-Code제조기술혁신생태계구축 (3174-496) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 525.0
+  },
+  {
+    "title": "(1) PIM인공지능반도체핵심기술개발(R&D) (3561-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 1058.94
+  },
+  {
+    "title": "(171) SDV용AI가속기반도체기술개발(R&D) (3551-355) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.71
+  },
+  {
+    "title": "(1) 가전산업AX전환을위한AI핵심모듈및혁신제품화기술개발(R&D) (3171-483) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 541.82
+  },
+  {
+    "title": "(171) 국가로봇테스트필드(R&D) (3541-351) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.7
+  },
+  {
+    "title": "(238) 국가 통합 바이오 빅데이터 구축(R&D) (3651-442) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.8
+  },
+  {
+    "title": "(1) 기계장비산업기술개발(R&D) (3231-304) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3200,
+    "change_rate": 952.63
+  },
+  {
+    "title": "(1) 대한무역투자진흥공사 (1139-310) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 254.84
+  },
+  {
+    "title": "(1) 로봇산업기술개발(R&D) (3541-301) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 1062.79
+  },
+  {
+    "title": "(238) 멀티오믹스기반난치암맞춤형진단치료상용화기술개발(R&D) (3651-333) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.8
+  },
+  {
+    "title": "(1) 미래이차전지원료소재실증플랫폼기반구축 (3171-471) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 558.17
+  },
+  {
+    "title": "(1) 민관공동투자반도체고급인력양성(R&D) (3161-416) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 645.19
+  },
+  {
+    "title": "(1) 민군기술협력(R&D) (3173-406) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 663.55
+  },
+  {
+    "title": "(238) 바이오산업 개방형 생태계 조성 촉진 (3649-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.79
+  },
+  {
+    "title": "(192) 반도체첨단패키징선도기술개발사업(R&D) (3561-432) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.71
+  },
+  {
+    "title": "(238) 범부처감염병방역체계고도화R&D사업(R&D) (3651-433) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.8
+  },
+  {
+    "title": "(1) 뿌리산업경쟁력강화지원 (3574-301) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 1062.79
+  },
+  {
+    "title": "(192) 뿌리산업 혁신공정장비 개발(R&D) (3541-421) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.7
+  },
+  {
+    "title": "(1) 산업AI솔루션실증‧확산지원 (3171-390) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 694.87
+  },
+  {
+    "title": "(1) 산업AI용데이터전처리자동화기술개발(R&D) (3174-364) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 751.65
+  },
+  {
+    "title": "(1) 산업기술국제협력(R&D) (3171-320) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 868.75
+  },
+  {
+    "title": "실·국·과(팀) 과 장 사무관 주무관 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(1) 산업단지환경조성 (3333-305) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 110,
+    "change_rate": -63.93
+  },
+  {
+    "title": "실·국·과(팀) 과 장 사무관 주무관 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(1) 산업용무기·유기화합물제형물성예측AI파운데이션모델개발(R&D) (3174-415) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 646.99
+  },
+  {
+    "title": "(1) 산업혁신기반구축(R&D) (3171-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 926.49
+  },
+  {
+    "title": "(1) 산업혁신인재성장지원(R&D) (3161-315) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 11,
+    "change_rate": -96.51
+  },
+  {
+    "title": "(1) 산업현장문제해결형산업AI에이전트기술개발(R&D) (3174-416) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 645.19
+  },
+  {
+    "title": "(1) 섬유패션산업활성화기반마련 (3535-304) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 1051.32
+  },
+  {
+    "title": "(238) 세포및유전자치료제 제조공정 고도화 기술개발사업 (3651-453) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.8
+  },
+  {
+    "title": "(1) 소재부품산업기술개발기반구축(R&D) (3232-303) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3200,
+    "change_rate": 956.11
+  },
+  {
+    "title": "(1) 열공정특화제조AI파운데이션모델개발(R&D) (3174-419) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 639.86
+  },
+  {
+    "title": "(238) 의료데이터합성기술및의료인공지능기술기반디지털의료제품개발(R&D) (3651-312) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.8
+  },
+  {
+    "title": "(1) 자동차산업기술개발(R&D) (3551-301) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 1062.79
+  },
+  {
+    "title": "실·국·과(팀) 과 장 사무관 주무관 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(1) 자원안보를 위한 고부가가치 한국형 텅스텐 전주기 기술 개발 및 실증 (5702-317) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 5700,
+    "change_rate": 1698.11
+  },
+  {
+    "title": "자원안보를 실·국·과(팀) 과 장 서기관 주무관 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "신규사업 성과체계 필요",
+    "due_status": "정상",
+    "budget_2026": 4000,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(192) 자율형소프트로봇핵심기술국제공동연구(R&D) (3541-413) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.7
+  },
+  {
+    "title": "(1) 제조AI데이터벨류체인구축(R&D) (3171-492) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 530.08
+  },
+  {
+    "title": "(1) 제조데이터표준·인공지능활용제품전주기탄소중립지원기술개발(R&D) (3174-366) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 746.99
+  },
+  {
+    "title": "(1) 제조특화초거대제조AI서비스개발및실증 (3333-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 110,
+    "change_rate": -63.58
+  },
+  {
+    "title": "(1) 조선해양산업기술개발(R&D) (3551-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3500,
+    "change_rate": 1058.94
+  },
+  {
+    "title": "(1) 지식서비스산업기술개발(R&D) (3541-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 302,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(1) 지역거점AX혁신기술개발(R&D) (3541-302) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 110,
+    "change_rate": -63.58
+  },
+  {
+    "title": "(1) 지역전략산업기반고도화(R&D) (3365-346) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 110,
+    "change_rate": -68.21
+  },
+  {
+    "title": "(1) 철강·금속AX실증센터구축 (3171-496) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 525.0
+  },
+  {
+    "title": "(1) 철강산업AI융합실증허브구축사업 (3171-495) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 526.26
+  },
+  {
+    "title": "(192) 첨단민군융합기술개발 (3541-409) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 117,
+    "change_rate": -96.7
+  },
+  {
+    "title": "(1) 한국형Manufacturing-X플랫폼표준모델개발및실증(R&D) (3174-420) 정책 점검",
+    "ministry": "산업통상부",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 3100,
+    "change_rate": 638.1
+  },
+  {
+    "title": "119빅데이터 분석ž운영 (1133-311) 정책 점검",
+    "ministry": "소방청",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 25,
+    "change_rate": -97.79
+  },
+  {
+    "title": "소방정보시스템구축(정보화) (1150-500) 정책 점검",
+    "ministry": "소방청",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 120.0
+  },
+  {
+    "title": "위험물 시설 화재·폭발 사고 예방 및 대응 기술개발(R&D) (1160-629) 정책 점검",
+    "ministry": "소방청",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1100,
+    "change_rate": 74.88
+  },
+  {
+    "title": "(68) AI 기반 독성예측 평가기술 개발연구(R&D) (4031-350) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 93,
+    "change_rate": -97.69
+  },
+  {
+    "title": "(80) AI응용제품 신속 상용화 지원사업(식품·의료기기 등)(7034-306) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 93,
+    "change_rate": -98.68
+  },
+  {
+    "title": "(77) 식의약품 안전정보체계 선진화(정보화) (7032-503) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 93,
+    "change_rate": -98.68
+  },
+  {
+    "title": "(57) 신기술 적용 식품(푸드테크) 안전기술 지원(R&D) (4031-325) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 93,
+    "change_rate": -97.69
+  },
+  {
+    "title": "(66) 중독자 데이터 기반 마약 중독 재활기술 개발연구(R&D) (4031-348) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 93,
+    "change_rate": -97.69
+  },
+  {
+    "title": "(56) 컴퓨터모델링 기반 의료기기 평가체계 구축(R&D) (4031-320) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 93,
+    "change_rate": -97.69
+  },
+  {
+    "title": "외교업무 디지털 혁신(정보화) (7031-505) 정책 점검",
+    "ministry": "소방청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 7000,
+    "change_rate": 1286.14
+  },
+  {
+    "title": "외교업무 정책 점검",
+    "ministry": "소방청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(76) 국제 거대전파망원경 건설 사업(R&D) (1634-306) 정책 점검",
+    "ministry": "소방청",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -90.51
+  },
+  {
+    "title": "(6) 우주전파재난 위험분석 및 대응기술 개발(R&D) (1342-301) 정책 점검",
+    "ministry": "소방청",
+    "domain": "안전/치안/재난",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1300,
+    "change_rate": 331.89
+  },
+  {
+    "title": "(9) 한국항공우주연구원 연구 운영비 지원(R&D) (1334-302) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1300,
+    "change_rate": 330.46
+  },
+  {
+    "title": "(81) 항공AI 안전성 확보를 위한 자율임무 신뢰성 보증기술 개발(R&D) (1733-311) 정책 점검",
+    "ministry": "소방청",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 155,
+    "change_rate": -91.06
+  },
+  {
+    "title": "국가인재개발 지능형 오픈 플랫폼 운영(정보화) (1732-301) 정책 점검",
+    "ministry": "소방청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1700,
+    "change_rate": 464.78
+  },
+  {
+    "title": "전자인사관리시스템운영(정보화) (1946-501) 정책 점검",
+    "ministry": "소방청",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1900,
+    "change_rate": 279.24
+  },
+  {
+    "title": "(1) 조달정보화(정보화) (1131 – 501) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(4) ICT융합스마트공장보급·확산 (2111-303) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2100,
+    "change_rate": 593.07
+  },
+  {
+    "title": "(6) 데이터 인프라구축(정보화) (2111-305) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2100,
+    "change_rate": 588.52
+  },
+  {
+    "title": "(13) 스마트 제조혁신 기술개발사업(R&D) (2134-377) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 119,
+    "change_rate": -94.42
+  },
+  {
+    "title": "(2) 신성장기반자금(융자) (1261-301) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1200,
+    "change_rate": 298.67
+  },
+  {
+    "title": "(13) 재도약촉진 (5161-302) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 118,
+    "change_rate": -97.71
+  },
+  {
+    "title": "(5) 중소기업 스마트서비스 지원(2111-304) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2100,
+    "change_rate": 590.79
+  },
+  {
+    "title": "(14) 중소기업모태조합출자 (5264-301) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 118,
+    "change_rate": -97.76
+  },
+  {
+    "title": "(57) 중소벤처행정정보화 (7232-503) 정책 점검",
+    "ministry": "소방청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 116,
+    "change_rate": -98.4
+  },
+  {
+    "title": "(20) 중소제조 특화 Multi AI Agent 개발(R&D) (2134-488) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 119,
+    "change_rate": -94.42
+  },
+  {
+    "title": "(8) 지역특화 제조데이터 활성화 (2111-312) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2100,
+    "change_rate": 573.08
+  },
+  {
+    "title": "(40) 창업사업화지원 (5132-302) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 118,
+    "change_rate": -97.7
+  },
+  {
+    "title": "(11) 창업성공패키지 (5152-302) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 118,
+    "change_rate": -97.71
+  },
+  {
+    "title": "(12) 창업성장기술개발(R&D) (2134-309) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 119,
+    "change_rate": -94.42
+  },
+  {
+    "title": "(18) 투·융자연계기술개발(R&D) (2134-486) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 119,
+    "change_rate": -94.42
+  },
+  {
+    "title": "(19) 표준공정 기반 공정최적화 기술개발(R&D) (2134-487) 정책 점검",
+    "ministry": "소방청",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 119,
+    "change_rate": -94.42
+  },
+  {
+    "title": "(10) 혁신창업사업화자금(융자) (5152-301) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 119,
+    "change_rate": -97.69
+  },
+  {
+    "title": "(28) 지식재산 활용(사업화, 거래, 평가) 지원 (1332-303) 정책 점검",
+    "ministry": "소방청",
+    "domain": "에너지/환경/기후",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 11,
+    "change_rate": -99.17
+  },
+  {
+    "title": "실·국·과(팀) 과 장 사무관 주무관 정책 점검",
+    "ministry": "소방청",
+    "domain": "기타",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(1) 공공기관 임무중심 감염병연구 다부처협력사업(R&D) (6634-365) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(1) 국가 통합 바이오 빅데이터 구축사업(R&D) (6634-345) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(1) 국가통합바이오빅데이터구축사업II(R&D) (6634-352) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(1) 헬스케어 이종데이터 활용체계 및 인공지능 개발(R&D) (6634-331) 정책 점검",
+    "ministry": "소방청",
+    "domain": "의료/바이오",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2024,
+    "change_rate": 999.0
+  },
+  {
+    "title": "(46) AI기반해상긴급상황접수및대응체계개발(R&D) (7239-631) 정책 점검",
+    "ministry": "경찰청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.67
+  },
+  {
+    "title": "(51) AI기반해양재난대응체계CDX기술개발(R&D) (7239-662) 정책 점검",
+    "ministry": "경찰청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.67
+  },
+  {
+    "title": "(49) 차세대디지털VTS국제표준서비스및장비개발(R&D) (7239-658) 정책 점검",
+    "ministry": "경찰청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.67
+  },
+  {
+    "title": "(36) 해양경찰정보화관리(정보화) (7238-300) 정책 점검",
+    "ministry": "경찰청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.67
+  },
+  {
+    "title": "(38) 해양안전시스템구축(정보화) (7238-302) 정책 점검",
+    "ministry": "경찰청",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 24,
+    "change_rate": -99.67
+  },
+  {
+    "title": "(33) AI기반 스마트 어업관리 시스템 개발(R&D) (3433-318) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 100,
+    "change_rate": -97.09
+  },
+  {
+    "title": "(119) AI 완전자율운항선박 기술개발(R&D) (4149-322) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.96
+  },
+  {
+    "title": "(22) AI응용제품 신속상용화 지원사업 (2031-320) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -93.8
+  },
+  {
+    "title": "(38) 고품질 준실시간 해양그리드 데이터서비스 체계 개발(R&D) (2042-329) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "제조/스마트팩토리",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -98.63
+  },
+  {
+    "title": "(106) 국제사회 IUU어업 예방을 위한 원양어선전자모니터링기술개발(R&D) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.96
+  },
+  {
+    "title": "(13) 극지연구소 운영지원(R&D) (1110-301) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "해양/수산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -86.31
+  },
+  {
+    "title": "(46) 남극해 급격한 온난화 대응 남극 해빙 예측 기술 개발(R&D) (2043-330) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -93.83
+  },
+  {
+    "title": "(60) 머신러닝 기반 해저면 특성 분류 기술개발(R&D) (2046-309) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -98.63
+  },
+  {
+    "title": "(70) 민군경AI기반해양영상융복합분석기술개발(R&D) (2046-359) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -98.63
+  },
+  {
+    "title": "(91) 생태계 기반 수산정책 지원기술 개발(R&D) (3632-313) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -99.23
+  },
+  {
+    "title": "(14) 선박해양플랜트연구소 운영지원(R&D) (1110-302) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "해양/수산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -97.48
+  },
+  {
+    "title": "(1) 수출입 물류항만-내륙연계 기술개발(R&D)(4143-317) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 4100,
+    "change_rate": 1193.38
+  },
+  {
+    "title": "(116) 순환적응형 연안침식 관리기술 개발(R&D) (4149-309) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.96
+  },
+  {
+    "title": "(114) 스마트수산업 응용기술 국산화 및 실증연구(R&D) (3632-320) 정책 점검",
+    "ministry": "기타",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 103,
+    "change_rate": -97.16
+  },
+  {
+    "title": "(47) 아열대 해양환경 적응 시나리오 개발 대응책 및 활용 체계 구축(R&D) (2043-334) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -93.83
+  },
+  {
+    "title": "(112) 양식생물 생물보안체계 구축을 위한 기술 개발(R&D) (4145-316) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -99.32
+  },
+  {
+    "title": "(36) 유수식 디지털양식 혁신기술개발(R&D) (3433-326) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "농림/식품",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 103,
+    "change_rate": -97.0
+  },
+  {
+    "title": "(118) 자율주행차 해상 수출입 서비스 기술개발(R&D) (4149-319) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.96
+  },
+  {
+    "title": "(102) 지능형 빅데이터 분석기반 해양환경누적영향평가 및 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.95
+  },
+  {
+    "title": "(103) 탄소제로 수중데이터센터 표준모델 개발(R&D) (4132-342) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.95
+  },
+  {
+    "title": "(12) 한국해양과학기술원 운영지원(R&D) (1110-300) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "해양/수산",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 152,
+    "change_rate": -86.31
+  },
+  {
+    "title": "(120) 한국형 연안재해 발생요인 예측기술 개발(R&D) (4151-317) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "안전/치안/재난",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -99.33
+  },
+  {
+    "title": "(97) 해양공간 디지털트윈 적용 및 활용 기술개발(R&D) (4132-312) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -96.95
+  },
+  {
+    "title": "(42) 해양배터리 특화 데이터 허브 플랫폼 구축 기술 개발(R&D) (2046-301) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 126,
+    "change_rate": -93.84
+  },
+  {
+    "title": "(6) 해양수산 신산업 육성 및 기업 투자유치 지원(2031-300) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 120,
+    "change_rate": -60.0
+  },
+  {
+    "title": "(111) 해양수산 융합형 전문인력양성사업(R&D) (4145-315) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "교통/물류/스마트시티",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -99.32
+  },
+  {
+    "title": "(33) 해양자원탐사를 위한 무인체계 기술개발(R&D) (2041-314) 정책 점검",
+    "ministry": "해양수산부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 28,
+    "change_rate": -98.63
+  },
+  {
+    "title": "(24) 공공데이터개방및이용활성화지원(정보화)(2046-502) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 115,
+    "change_rate": -94.38
+  },
+  {
+    "title": "(19) 공공부문 AI 서비스 지원 (2039-508) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.26
+  },
+  {
+    "title": "(4) 과학수사감정지원 (2531-303) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 20,
+    "change_rate": -93.4
+  },
+  {
+    "title": "(25) 데이터기반행정활성화(정보화) (2046-503) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.27
+  },
+  {
+    "title": "(14) 드론·SAR및디지털트윈연계급경사지위험성분석기술개발(R&D) (2931-527) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 25,
+    "change_rate": -99.15
+  },
+  {
+    "title": "(18) 범정부 인공지능 공통기반 구현(정보화) (2039-506) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.26
+  },
+  {
+    "title": "(18) 재난 및 안전관리 연구개발(R&D) (2931-535) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 25,
+    "change_rate": -99.15
+  },
+  {
+    "title": "(27) 재난안전 AI 관제체계 및 데이터 구축(정보화) (3032-509) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 18,
+    "change_rate": -99.41
+  },
+  {
+    "title": "(19) 재난안전 부처협력 기술개발(R&D)(2931-627) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 25,
+    "change_rate": -99.15
+  },
+  {
+    "title": "(6) 전자문서소통시스템(정보화) (1932-501) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 1900,
+    "change_rate": 279.24
+  },
+  {
+    "title": "참여혁신조직실 참여혁신국 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(8) 정보보호인프라확충(정보화) (2033-500) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2000,
+    "change_rate": 300.0
+  },
+  {
+    "title": "지자체 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 0,
+    "change_rate": 0.0
+  },
+  {
+    "title": "(9) 전자정부 성과평가(정보화) (2034-500) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "일반",
+    "due_status": "정상",
+    "budget_2026": 2000,
+    "change_rate": 300.0
+  },
+  {
+    "title": "(28) 행정서비스통합포털운영(정보화) (2047-500) 정책 점검",
+    "ministry": "행정안전부",
+    "domain": "공공행정/전자정부",
+    "priority": "예산감소 점검",
+    "due_status": "기한임박",
+    "budget_2026": 15,
+    "change_rate": -99.27
+  }
+]
