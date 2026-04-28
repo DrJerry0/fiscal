@@ -277,12 +277,18 @@ function drawDomainBubble(rows) {
 
 function drawHeatmap(rows) {
     const container = document.getElementById("heatmap");
-    if (!container || !rows.length) return;
+    if (!container) return;
 
-    const domains = [...new Set(rows.flatMap(row =>
-        Object.keys(row).filter(k => k !== "ministry")
-    ))];
+    const ministries = STANDARD_MINISTRIES;
 
+    // 모든 도메인 수집
+    const domains = [...new Set(
+        rows.flatMap(row =>
+            Object.keys(row).filter(k => k !== "ministry")
+        )
+    )];
+
+    // 최대값 계산
     let maxValue = 0;
     rows.forEach(row => {
         domains.forEach(domain => {
@@ -290,18 +296,27 @@ function drawHeatmap(rows) {
         });
     });
 
-    let html = `<table class="heatmap-table"><thead><tr><th>부처 × AI 도메인</th>`;
+    // 빠른 lookup용 map
+    const rowMap = {};
+    rows.forEach(r => {
+        rowMap[r.ministry] = r;
+    });
+
+    let html = `<table class="heatmap-table"><thead><tr><th>부처 × 도메인</th>`;
     domains.forEach(domain => {
         html += `<th>${domain}</th>`;
     });
     html += `</tr></thead><tbody>`;
 
-    rows.forEach(row => {
-        html += `<tr><th>${row.ministry}</th>`;
+    ministries.forEach(ministry => {
+        const row = rowMap[ministry] || {};
+
+        html += `<tr><th>${ministry}</th>`;
+
         domains.forEach(domain => {
             const value = Number(row[domain] || 0);
-            let cls = "";
 
+            let cls = "";
             if (value > 0) {
                 const ratio = value / maxValue;
                 if (ratio >= 0.6) cls = "heat-high";
@@ -311,6 +326,7 @@ function drawHeatmap(rows) {
 
             html += `<td class="${cls}">${value ? value.toLocaleString() : ""}</td>`;
         });
+
         html += `</tr>`;
     });
 
