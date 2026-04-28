@@ -59,7 +59,49 @@
 
 <section id="ministry" class="page">
     <h2>부처별 분석</h2>
-    <canvas id="keywordChart"></canvas>
+
+    <div class="filter-card">
+        <label for="ministrySelect">부처 선택</label>
+        <select id="ministrySelect">
+            <option value="">부처 선택...</option>
+        </select>
+    </div>
+
+    <div class="kpi-grid small">
+        <div class="kpi-card blue"><strong id="selectedMinistryProjects">-</strong><span>과제 수</span></div>
+        <div class="kpi-card indigo"><strong id="selectedMinistryBudget">-</strong><span>2026 예산</span></div>
+        <div class="kpi-card green"><strong id="selectedMinistryAvg">-</strong><span>평균 예산</span></div>
+        <div class="kpi-card orange"><strong id="selectedMinistryNew">-</strong><span>신규사업</span></div>
+    </div>
+
+    <div class="analysis-grid">
+        <div class="chart-card">
+            <h3>선택 부처 사업유형 분포</h3>
+            <canvas id="selectedMinistryCategoryChart"></canvas>
+        </div>
+
+        <div class="chart-card">
+            <h3>선택 부처 AI 분야별 예산</h3>
+            <canvas id="selectedMinistryDomainChart"></canvas>
+        </div>
+    </div>
+
+    <div class="table-card">
+        <h3>선택 부처 주요 사업 TOP 10</h3>
+        <div id="selectedMinistryProjectTable"></div>
+    </div>
+
+    <div class="analysis-grid">
+        <div class="chart-card">
+            <h3>전체 부처별 과제 수</h3>
+            <canvas id="ministryProjectCountChart"></canvas>
+        </div>
+
+        <div class="chart-card">
+            <h3>전체 부처별 예산 규모</h3>
+            <canvas id="ministryBudgetChart"></canvas>
+        </div>
+    </div>
 </section>
 
 <section id="domain" class="page"><h2>분야별 분석</h2></section>

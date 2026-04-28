@@ -212,3 +212,60 @@ canvas {
         font-size: 26px;
     }
 }
+.filter-card {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 18px;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.12);
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.filter-card label {
+    font-weight: 700;
+    color: #334155;
+}
+
+.filter-card select {
+    min-width: 280px;
+    padding: 10px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.kpi-grid.small {
+    grid-template-columns: repeat(4, minmax(160px, 1fr));
+}
+
+.table-card {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    margin: 18px 0;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.12);
+}
+
+.analysis-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.analysis-table th,
+.analysis-table td {
+    border-bottom: 1px solid #e5e7eb;
+    padding: 10px;
+    text-align: left;
+}
+
+.analysis-table th {
+    background: #f8fafc;
+    color: #334155;
+}
+
+.analysis-table td.num {
+    text-align: right;
+}

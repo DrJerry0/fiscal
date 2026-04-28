@@ -397,6 +397,118 @@ async function loadKeywordChart() {
     });
 }
 
+let ministryAnalysisData = null;
+
+function objectToChartRows(obj) {
+    return Object.entries(obj || {}).map(([label, value]) => ({
+        label,
+        value: Number(value || 0)
+    }));
+}
+
+function renderTable(containerId, rows) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    if (!rows || rows.length === 0) {
+        container.innerHTML = "<p>표시할 사업이 없습니다.</p>";
+        return;
+    }
+
+    container.innerHTML = `
+        <table class="analysis-table">
+            <thead>
+                <tr>
+                    <th>사업명</th>
+                    <th>분야</th>
+                    <th>유형</th>
+                    <th>2026 예산</th>
+                    <th>증감률</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${rows.map(row => `
+                    <tr>
+                        <td>${row.project_name || ""}</td>
+                        <td>${row.domain || ""}</td>
+                        <td>${row.category || ""}</td>
+                        <td class="num">${Number(row.budget_2026 || 0).toLocaleString()}백만원</td>
+                        <td class="num">${Number(row.change_rate || 0).toFixed(1)}%</td>
+                    </tr>
+                `).join("")}
+            </tbody>
+        </table>
+    `;
+}
+
+function populateMinistryDropdown(data) {
+    const select = document.getElementById("ministrySelect");
+    if (!select) return;
+
+    const ministries = [...data.items]
+        .sort((a, b) => b.total_budget - a.total_budget)
+        .map(item => item.ministry);
+
+    select.innerHTML = `<option value="">부처 선택...</option>` +
+        ministries.map(m => `<option value="${m}">${m}</option>`).join("");
+
+    select.addEventListener("change", () => {
+        renderSelectedMinistry(select.value);
+    });
+
+    if (ministries.length > 0) {
+        select.value = ministries[0];
+        renderSelectedMinistry(ministries[0]);
+    }
+}
+
+function renderSelectedMinistry(ministryName) {
+    if (!ministryAnalysisData || !ministryName) return;
+
+    const item = ministryAnalysisData.items.find(d => d.ministry === ministryName);
+    if (!item) return;
+
+    setText("selectedMinistryProjects", Number(item.project_count || 0).toLocaleString());
+    setText("selectedMinistryBudget", formatBudget(item.total_budget || 0));
+    setText("selectedMinistryAvg", formatBudget(item.avg_budget || 0));
+    setText("selectedMinistryNew", Number(item.new_count || 0).toLocaleString());
+
+    drawPieChart(
+        "selectedMinistryCategoryChart",
+        "사업유형 분포",
+        objectToChartRows(item.category_distribution)
+    );
+
+    drawBarChart(
+        "selectedMinistryDomainChart",
+        "예산",
+        objectToChartRows(item.domain_budget_top10),
+        true
+    );
+
+    renderTable("selectedMinistryProjectTable", item.top_projects || []);
+}
+
+async function loadMinistryAnalysis() {
+    ministryAnalysisData = await loadJson("data/ministry_analysis.json");
+
+    drawBarChart(
+        "ministryProjectCountChart",
+        "과제 수",
+        ministryAnalysisData.ministry_project_count || [],
+        true
+    );
+
+    drawBarChart(
+        "ministryBudgetChart",
+        "예산",
+        ministryAnalysisData.ministry_budget || [],
+        true
+    );
+
+    populateMinistryDropdown(ministryAnalysisData);
+}
+
 async function initDashboard() {
     try {
         const [summary, charts, recommendations] = await Promise.all([
@@ -409,6 +521,7 @@ async function initDashboard() {
         drawDashboardCharts(charts);
         drawPolicyBoard(recommendations);
         await loadKeywordChart();
+        await loadMinistryAnalysis();
 
     } catch (error) {
         console.error(error);
