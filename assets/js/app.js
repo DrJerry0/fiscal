@@ -539,6 +539,92 @@ async function loadMinistryAnalysis() {
     populateMinistryDropdown(ministryAnalysisData);
 }
 
+function drawDomainTreemap(data) {
+    const container = document.getElementById("domainTreemap");
+    if (!container) return;
+
+    const rows = data.domain_budget || [];
+    const colors = COLORS;
+
+    container.innerHTML = rows.map((item, i) => {
+        const value = Number(item.value || 0);
+        let span = 2;
+
+        if (i === 0) span = 4;
+        else if (i <= 2) span = 3;
+        else if (i <= 6) span = 2;
+        else span = 1;
+
+        return `
+            <div class="treemap-item" style="grid-column: span ${span}; background:${colors[i % colors.length]}">
+                <div class="title">${item.label}</div>
+                <div class="value">${formatBudget(value)}</div>
+            </div>
+        `;
+    }).join("");
+}
+
+function drawDomainMinistryHeatmap(data) {
+    const container = document.getElementById("domainMinistryHeatmap");
+    if (!container) return;
+
+    const rows = data.ministry_domain_matrix || [];
+
+    const domains = [...new Set(rows.flatMap(row =>
+        Object.keys(row).filter(k => k !== "ministry")
+    ))];
+
+    let maxValue = 0;
+    rows.forEach(row => {
+        domains.forEach(domain => {
+            maxValue = Math.max(maxValue, Number(row[domain] || 0));
+        });
+    });
+
+    const rowMap = {};
+    rows.forEach(row => {
+        rowMap[row.ministry] = row;
+    });
+
+    let html = `<table class="heatmap-table"><thead><tr><th>부처 \\ 분야</th>`;
+
+    domains.forEach(domain => {
+        html += `<th>${domain}</th>`;
+    });
+
+    html += `</tr></thead><tbody>`;
+
+    STANDARD_MINISTRIES.forEach(ministry => {
+        const row = rowMap[ministry] || {};
+        html += `<tr><th>${ministry}</th>`;
+
+        domains.forEach(domain => {
+            const value = Number(row[domain] || 0);
+            let cls = "";
+
+            if (value > 0) {
+                const ratio = value / maxValue;
+                if (ratio >= 0.6) cls = "heat-high";
+                else if (ratio >= 0.2) cls = "heat-mid";
+                else cls = "heat-low";
+            }
+
+            html += `<td class="${cls}">${value ? value.toLocaleString() : ""}</td>`;
+        });
+
+        html += `</tr>`;
+    });
+
+    html += `</tbody></table>`;
+    container.innerHTML = html;
+}
+
+async function loadDomainAnalysis() {
+    const data = await loadJson("data/domain_analysis.json");
+    drawDomainTreemap(data);
+    drawDomainMinistryHeatmap(data);
+}
+
 async function initDashboard() {
     try {
         const [summary, charts, recommendations] = await Promise.all([
@@ -552,6 +638,7 @@ async function initDashboard() {
         drawPolicyBoard(recommendations);
         await loadKeywordChart();
         await loadMinistryAnalysis();
+        await loadDomainAnalysis();
 
     } catch (error) {
         console.error(error);
