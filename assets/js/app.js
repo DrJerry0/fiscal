@@ -3,6 +3,18 @@ const COLORS = [
     "#dc2626", "#9333ea", "#0f766e", "#ca8a04", "#be123c"
 ];
 
+const STANDARD_MINISTRIES = [
+    "감사원", "개인정보위원회", "경찰청", "고용노동부", "과학기술정보통신부",
+    "관세청", "교육부", "국가데이터처", "국가유산청", "국민권익위원회",
+    "국방부", "국세청", "국토교통부", "금융위원회", "기상청",
+    "기획예산처", "기후에너지환경부", "농립축산식품부", "농촌진흥청",
+    "대법원", "문화체육관광부", "방송미디어통신위원회", "방위사업청",
+    "법무부", "법제처", "병무청", "보건복지부", "산림청",
+    "산업통상부", "소방청", "식품의약품안전처", "우주항공청",
+    "인사혁신처", "조달청", "중소벤처기업부", "지식재산처",
+    "질병관리청", "해양경찰청", "해양수산부", "행정안전부"
+];
+
 let chartInstances = {};
 
 function showPage(pageId) {
@@ -445,28 +457,30 @@ function populateMinistryDropdown(data) {
     const select = document.getElementById("ministrySelect");
     if (!select) return;
 
-    const ministries = [...data.items]
-        .sort((a, b) => b.total_budget - a.total_budget)
-        .map(item => item.ministry);
-
     select.innerHTML = `<option value="">부처 선택...</option>` +
-        ministries.map(m => `<option value="${m}">${m}</option>`).join("");
+        STANDARD_MINISTRIES.map(m => `<option value="${m}">${m}</option>`).join("");
 
     select.addEventListener("change", () => {
         renderSelectedMinistry(select.value);
     });
 
-    if (ministries.length > 0) {
-        select.value = ministries[0];
-        renderSelectedMinistry(ministries[0]);
-    }
+    select.value = STANDARD_MINISTRIES[0];
+    renderSelectedMinistry(STANDARD_MINISTRIES[0]);
 }
 
 function renderSelectedMinistry(ministryName) {
     if (!ministryAnalysisData || !ministryName) return;
 
-    const item = ministryAnalysisData.items.find(d => d.ministry === ministryName);
-    if (!item) return;
+    const item = ministryAnalysisData.items.find(d => d.ministry === ministryName) || {
+        ministry: ministryName,
+        project_count: 0,
+        total_budget: 0,
+        avg_budget: 0,
+        new_count: 0,
+        category_distribution: {},
+        domain_budget_top10: {},
+        top_projects: []
+    };
 
     setText("selectedMinistryProjects", Number(item.project_count || 0).toLocaleString());
     setText("selectedMinistryBudget", formatBudget(item.total_budget || 0));
